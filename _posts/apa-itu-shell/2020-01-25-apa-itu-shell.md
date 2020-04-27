@@ -4,13 +4,13 @@ date: 2020-01-25 11:58:47 +07:00
 modified: 2020-02-02 16:49:47 +07:00
 tags: [unix/linux, cli]
 description: Shell adalah sebuah command-line interpreter; program yang berperan sebagai penerjemah perintah yang diinputkan oleh User yang melalui terminal, sehingga perintah tersebut bisa dimengerti oleh si Kernel.
-image: "/apa-itu-shell/shell_evolution.png"
+image: "/_posts/apa-itu-shell/shell_evolution.png"
 ---
 
 <a href="http://www.youtube.com/watch?v=tc4ROCJYbm0&t=70" target="_blank" rel="noopener">Dulu</a> Sebelum adanya <abbr title="Graphical User Interface">GUI</abbr> cara user berinteraksi dengan komputer menggunakan <abbr title="Command Line Interface">CLI</abbr> yaitu mengetik baris perintah pada sebuah antarmuka dalam bentuk baris teks seperti 👇.
 
 <figure>
-<img src="/apa-itu-shell/terminal_nginx.gif" alt="installing nginx in ubuntu">
+<img src="/_posts/apa-itu-shell/terminal_nginx.gif" alt="installing nginx in ubuntu">
 <figcaption>Fig 1. Terminal emulator, instalasi package dan check service.</figcaption>
 </figure>
 
