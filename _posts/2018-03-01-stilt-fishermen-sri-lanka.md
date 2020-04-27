@@ -7,17 +7,35 @@ description: Sri Lanka's historic tradition of stilt fishing, in images
 image: "_posts/stilt-fishermen-sri-lanka/Sri_Lanka_900_PS.jpg"
 ---
 
-Description of this tradition...
+![1](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_781_PS.jpg)
 
-![1](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_748_PS.jpg "Title")
+![2](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_784_PS.jpg)
 
 ### The Back Story
 
-![2](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_781_PS.jpg)
+*More about traveling Sri Lanka by tuktuk [here](/sri-lanka-tuktuk/).*
 
-![3](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_784_PS.jpg)
+A friend and I had traveled in Vietnam in 2017 by motorbike and loved the exposure and 
+flexibility it provided. We joked that our next trip should be via a vehicle with one more
+wheel than a motorbike. That left us with several options:
 
-Some text about it.
+1. Tricycle
+2. Bicycle with one training wheel
+3. Motorbike with a side car
+4. Tuktuk
+
+After reading a bit about traveling by tuktuk in Sri Lanka, we knew it was the way to go.
+
+![3](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_748_PS.jpg)
+
+We spent several days in the area, hoping to find the now-elusive *authentic* stilt fishermen.
+After the world saw Steve McCurry's iconic shots of the wonderful traditional practice, 
+and several other reasons, locals posing as fisherman who charge tourists to capture their
+smiles make much more than the ones who still practice the craft.
+
+We kept hearing rumors that a group was working their way down the coast. On our last night
+in the area, about two hours before sunset, we finally saw them. As enthusiastic photographers,
+and culturally-insensitive tourists, we snapped away until it got dark.
 
 ![4](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_800_PS.jpg)
 
@@ -32,20 +50,3 @@ Some text about it.
 ###### Heading 6
 
 ![7](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_900_PS.jpg)
-
-# Something else
-
-## Here's a bike ride I went on recently
-
-### Strava
-
-<iframe height='500' width='100%' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/activities/3350453996/embed/cf714a05591b5199c99052676a2afb4726757914'></iframe>
-
-### Ride with GPS
-
-<iframe src="https://ridewithgps.com/embeds?type=trip&id=47569877&title=Earth%20Day%20Run&metricUnits=true&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
-
-### Komoot
-
-<iframe src="https://www.komoot.com/tour/166997742/embed?profile=1&gallery=1" width="100%" height="580" frameborder="0" scrolling="yes"></iframe>
-
