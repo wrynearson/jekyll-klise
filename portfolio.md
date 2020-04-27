@@ -9,7 +9,7 @@ comments: false
 
 ## Stilt Fishermen of Sri Lanka
 
-![](assets/images)
-
+![1](assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_748_PS.jpg)
+![2](assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_781_PS.JPG)
 
 ## Other Images
