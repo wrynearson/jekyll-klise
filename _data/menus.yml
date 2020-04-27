@@ -6,6 +6,9 @@
   url: /resume/
   external: false
 
+- title: portfolio
+  url: /portfolio/
+
 - title: about
   url: /about/
   external: false

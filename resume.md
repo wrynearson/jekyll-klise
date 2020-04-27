@@ -2,7 +2,7 @@
 title: Resume
 permalink: /resume/
 layout: page
-excerpt: Will Rynearson - Resume
+excerpt: Resume
 comments: false
 ---
 
