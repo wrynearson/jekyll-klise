@@ -8,7 +8,7 @@ image: "_posts/stilt-fishermen-sri-lanka/Sri_Lanka_900_PS.jpg"
 
 Description of this tradition...
 
-![1](Sri_Lanka_748_PS.jpg)
+![1](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_748_PS.jpg)
 
 ### The Back Story
 
