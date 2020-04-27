@@ -1,11 +1,11 @@
 ---
 title: The Stilt Fishermen of Sri Lanka
-date: 2020-03-01 12:00:00 +02:00
+date: 2020-04-27 12:48:00 +02:00
 tags: [javascript, react]
 description: Sri Lanka's historic tradition of stilt fishing, in images
 ---
 
-Description of this tradition
+Description of this tradition...
 
 ![1](assets/img/portfolio/[2018-03-01]-Sri_Lanka/Stilt%20Fishermen/Sri%20Lanka_748_PS.jpg)
 
