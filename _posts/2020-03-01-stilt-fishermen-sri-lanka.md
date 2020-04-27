@@ -2,7 +2,6 @@
 title: The Stilt Fishermen of Sri Lanka
 date: 2020-04-27 12:48:00 +02:00
 tags: [Photography, Travel, Sri Lanka]
-# tags: [javascript, react]
 description: Sri Lanka's historic tradition of stilt fishing, in images
 image: "_posts/stilt-fishermen-sri-lanka/Sri_Lanka_900_PS.jpg"
 ---
@@ -37,9 +36,9 @@ Some text about it.
 
 ## Here's a bike ride I went on recently
 
-### Strave
+### Strava
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3350453996/embed/cf714a05591b5199c99052676a2afb4726757914'></iframe>
+<iframe height='500' width='100%' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/activities/3350453996/embed/cf714a05591b5199c99052676a2afb4726757914'></iframe>
 
 ### Ride with GPS
 
@@ -47,5 +46,5 @@ Some text about it.
 
 ### Komoot
 
-<iframe src="https://www.komoot.com/tour/166997742/embed?profile=1&gallery=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.com/tour/166997742/embed?profile=1&gallery=1" width="100%" height="580" frameborder="0" scrolling="yes"></iframe>
 
