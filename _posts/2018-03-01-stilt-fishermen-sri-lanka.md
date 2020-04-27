@@ -5,6 +5,7 @@ date: 2018-03-01 12:00:00 +02:00
 tags: [Photography, Travel, Sri Lanka]
 description: Sri Lanka's historic tradition of stilt fishing, in images
 image: "_posts/stilt-fishermen-sri-lanka/Sri_Lanka_900_PS.jpg"
+layout: post
 ---
 
 ![1](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_781_PS.jpg)
@@ -39,14 +40,10 @@ and culturally-insensitive tourists, we snapped away until it got dark.
 
 ![4](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_800_PS.jpg)
 
-#### Heading 4
+*Some seemed to be experts, while others were just getting started.*
 
 ![5](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_801_PS.jpg)
 
-##### Heading 5
-
 ![6](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_807_PS.jpg)
-
-###### Heading 6
 
 ![7](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_900_PS.jpg)
