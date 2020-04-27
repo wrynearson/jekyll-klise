@@ -1,8 +1,7 @@
 # Site settings
 title: Will Rynearson
 description: >-
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  SDGs and photography.
 lang: en-US
 timezone: Asia/Jakarta
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -11,18 +10,16 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Klisé Theme
+  name: Will Rynearson
   bio: >-
-    "Sustainable Development Goals :earth_africa:"
-    "Learning data visualization."
-    "I like photography."
-  username: username
-  email: your-email@email.com
+    Sustainable Development Goals :earth_africa: Learning data visualization. I like photography.
+  username: wrynearson
+  email: wrynearson@gmail.com
   avatar: /assets/img/avatar.jpg
 
 # Url settings
-url: "https://klise.now.sh"
-baseurl:
+url: "https://wrynearson.github.io"
+baseurl: ""
 permalink: /:title/
 google_analytics:
 fb_appid:

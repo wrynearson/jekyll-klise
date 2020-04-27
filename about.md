@@ -1,8 +1,8 @@
 ---
-title: Will Rynearson
+title: Will
 permalink: /about/
 layout: page
-excerpt: Hi, this is a text excerp about me.
+excerpt: Hi, this is a text excerp about me
 comments: false
 ---
 
