@@ -12,7 +12,11 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Will Rynearson
   bio: >-
-    Sustainable Development Goals :earth_africa: Learning data visualization. I like photography.
+    Sustainable Development Goals
+    
+    Learning data visualization
+    
+    I like photography
   username: wrynearson
   email: wrynearson@gmail.com
   avatar: /assets/img/avatar.jpg
@@ -21,7 +25,7 @@ author:
 url: "https://wrynearson.github.io"
 baseurl: ""
 permalink: /:title/
-google_analytics:
+google_analytics: UA-59799094-3
 fb_appid:
 
 # Collection setting
