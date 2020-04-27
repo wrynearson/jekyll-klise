@@ -6,10 +6,6 @@
   url: https://wrynearson.github.io/online-cv/
   external: true
 
-- title: portfolio
-  url: /portfolio/
-  external: false
-
 - title: about
   url: /about/
   external: false
