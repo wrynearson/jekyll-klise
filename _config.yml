@@ -3,9 +3,9 @@ title: Will Rynearson
 description: >-
   SDGs and photography.
 lang: en-US
-timezone: Asia/Jakarta
+timezone: Europe/Switzerland
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/mahendrata.now.sh
+repo: https://github.com/wrynearson/wrynearson.github.io
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
