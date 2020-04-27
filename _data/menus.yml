@@ -3,11 +3,12 @@
   external: false
 
 - title: resume
-  url: /resume/
-  external: false
+  url: https://wrynearson.github.io/resume/
+  external: true
 
 - title: portfolio
   url: /portfolio/
+  external: false
 
 - title: about
   url: /about/
