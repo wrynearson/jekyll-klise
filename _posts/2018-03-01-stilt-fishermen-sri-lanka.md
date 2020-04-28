@@ -7,6 +7,7 @@ description: Sri Lanka's historic tradition of stilt fishing, in images
 image: "_posts/stilt-fishermen-sri-lanka/Sri_Lanka_900_PS.jpg"
 layout: post
 ---
+*Written 2020-04-27*
 
 ![1](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_781_PS.jpg)
 
