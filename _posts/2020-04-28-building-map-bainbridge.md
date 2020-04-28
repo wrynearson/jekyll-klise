@@ -8,7 +8,13 @@ layout: post
 published: true
 comments: true
 ---
-![Bainbridge Island](../assets/img/2020-04-28-building-map-bainbridge/bainbridge-1.svg)
+{::nomarkdown}
+<img 
+    src="/assets/img/2020-04-28-building-map-bainbridge/Bainbridge-1.svg"
+    alt="Bainbridge Island's buildings" />
+{:/}
+
+![Bainbridge Island](../assets/img/2020-04-28-building-map-bainbridge/bainbridge-1.jpg)
 
 I've always loved maps. The differet ways we represent the physical world on a small screenor piece of paper is fascinating. I could spend hours looking at subway maps, old world maps,or beautiful topo maps. They're such a powerful mix of technical prowess and art (maybe that's why I love photography).
 
