@@ -8,7 +8,7 @@ layout: post
 published: true
 comments: true
 ---
-![Bainbridge Island](/bainbridge-1.jpg)
+![Bainbridge Island](../assets/img/2020-04-28-building-map-bainbridge/bainbridge-1.jpg)
 
 I've always loved maps. The differet ways we represent the physical world on a small screenor piece of paper is fascinating. I could spend hours looking at subway maps, old world maps,or beautiful topo maps. They're such a powerful mix of technical prowess and art (maybe that's why I love photography).
 
@@ -26,13 +26,13 @@ Very new to QGIS (I'm sure there's a better way of doing this), I zoomed into Pu
 
 I then copied these polygons into a new virtual layer and went to artistic "work" simply changing the background color, fill color and border color. I used a black background and the same color for both the building fill and border, but put the fill at 75% opacity.
 
-![Downtown](/_posts/2020-04-28-building-map-bainbridge/bainbridge-2.jpg)
+![Downtown](../assets/img/2020-04-28-building-map-bainbridge/bainbridge-2.jpg)
 
 Et voilà, it turned out pretty well!
 
-![Nature Reserve](/_posts/2020-04-28-building-map-bainbridge/bainbridge-3.jpg)
+![Nature Reserve](../assets/img/2020-04-28-building-map-bainbridge/bainbridge-3.jpg)
 
-It's interesting to see where the island has been developed, versus where it hasn't. The ![downtown](http://wrynearson.github.io/_posts/2020-04-28-building-map-bainbridge/bainbridge-2.jpg) area is just north of Eagle Harbor, while the void in the middle is [Gazzam Lake Nature Preserve](/_posts/2020-04-28-building-map-bainbridge/bainbridge-3.jpg).
+It's interesting to see where the island has been developed, versus where it hasn't. The [downtown](http://wrynearson.github.io/_posts/2020-04-28-building-map-bainbridge/bainbridge-2.jpg) area is just north of Eagle Harbor, while the void in the middle is [Gazzam Lake Nature Preserve](/_posts/2020-04-28-building-map-bainbridge/bainbridge-3.jpg).
 <!-- note - full link to see if popup works -->
 
 You can play around with an interactive version using the qgis2web plugin to export it with leaflet [here](/TestMap).

@@ -4,6 +4,7 @@ permalink: /notes/
 layout: page
 excerpt: Catatan Public agar enggak usah pusing-pusing mengingat.
 comments: false
+published: false
 ---
 
 #### Rails 6 db:system:change --to command
