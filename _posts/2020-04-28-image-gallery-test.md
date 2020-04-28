@@ -12,6 +12,8 @@ published: false
 
 <!-- For several image posts with popout, use [![title](file)](file) -- e.g. [![image4](../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_748_PS.jpg)](/assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_748_PS.jpg) -->
 
-{% include image-gallery.html folder="/assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/" %}
+{% include image-gallery.html folder="/assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/" %} 
+<!-- INCLUDE THIS FOR EVERY POST WHICH I WANT THE GALLERY.
+Consider using Liquid {{ }} -->
 
 Testing the image gallery function
