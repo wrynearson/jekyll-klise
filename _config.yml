@@ -80,5 +80,3 @@ plugins:
   - jekyll-sass-converter
   - jekyll-sitemap
   - jekyll-postfiles
-  - jekyll-leaflet
-  

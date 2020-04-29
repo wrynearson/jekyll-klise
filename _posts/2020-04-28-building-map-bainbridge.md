@@ -6,7 +6,6 @@ description: Using Microsoft's building dataset to create an artistic map of my 
 # image:
 layout: post
 published: true
-comments: true
 ---
 <!-- {::nomarkdown}
 <img 
@@ -16,13 +15,19 @@ comments: true
     width="1600" />
 {:/} -->
 
+#### Bainbridge Island, my hometown
+
 ![Bainbridge Island](../assets/img/2020-04-28-building-map-bainbridge/bainbridge-1.png)
 
 I've always loved maps. The differet ways we represent the physical world on a small screenor piece of paper is fascinating. I could spend hours looking at subway maps, old world maps,or beautiful topo maps. They're such a powerful mix of technical prowess and art (maybe that's why I love photography).
 
 Maps, and other visualizations, are a great way to turn complicated or abstract information intosomething understandable. Early on my journey to learn how to visualize data, I've been incrediblyinspired by recent works of data journalism, especially from the New York Times.
 
+#### Inspiration
+
 The headline for the 2018 piece [*A Map Of Every Building In America*](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html) definitely caught my eye. After reading through, mesmerized by the tiny black dots, I found [Microsoft's Github pepository](https://github.com/Microsoft/USBuildingFootprints/) of **125,192,184** "computer generated building footprints in all 50 US states." What a fascinating way to see our built environment in clarity, without the clutter which comes fromsatelite images or standard online maps.
+
+#### Process
 
 I'm from Bainbridge Island (near Seattle), so I thought I'd start there. I found [`Washington.zip`](https://usbuildingdata.blob.core.windows.net/usbuildings-v1-1/Washington.zip) file (675 MB) conveniently listed, downloaded it, and loaded it into QGIS.
 
@@ -40,7 +45,7 @@ Et voilà, it turned out pretty well!
 
 ![Nature Reserve](../assets/img/2020-04-28-building-map-bainbridge/bainbridge-3.png "Nature Reserve")
 
-It's interesting to see where the island has been developed, versus where it hasn't. The [downtown](http://wrynearson.github.io/../assets/img/2020-04-28-building-map-bainbridge/bainbridge-2.jpg) area is just north of Eagle Harbor, while the void in the middle is [Gazzam Lake Nature Preserve](../assets/img/2020-04-28-building-map-bainbridge/bainbridge-3.jpg).
+It's interesting to see where the island has been developed, versus where it hasn't. The [downtown](http://wrynearson.github.io/../assets/img/2020-04-28-building-map-bainbridge/bainbridge-2.png) area is just north of Eagle Harbor, while the void in the middle is [Gazzam Lake Nature Preserve](../assets/img/2020-04-28-building-map-bainbridge/bainbridge-3.png).
 <!-- note - full link to see if popup works -->
 
 You can play around with an interactive version using the qgis2web plugin to export it with leaflet [here](/TestMap).
