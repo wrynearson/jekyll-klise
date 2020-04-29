@@ -1,5 +1,5 @@
 ---
-title: Map of Buildings
+title: Buildings
 date: 2020-04-28 20:00:00 +02:00
 tags: [Maps]
 description: Using Microsoft's building dataset to create an artistic map of my hometown
@@ -15,7 +15,7 @@ published: true
     width="1600" />
 {:/} -->
 
-#### Bainbridge Island, my hometown
+###### Bainbridge Island, my hometown
 
 ![Bainbridge Island](../assets/img/2020-04-28-building-map-bainbridge/bainbridge-1.png)
 
@@ -29,15 +29,19 @@ The headline for the 2018 piece [*A Map Of Every Building In America*](https://w
 
 #### Process
 
-I'm from Bainbridge Island (near Seattle), so I thought I'd start there. I found [`Washington.zip`](https://usbuildingdata.blob.core.windows.net/usbuildings-v1-1/Washington.zip) file (675 MB) conveniently listed, downloaded it, and loaded it into QGIS.
+I'm from Bainbridge Island (near Seattle), so I thought I'd start there. I found [`Washington.zip`](https://usbuildingdata.blob.core.windows.net/usbuildings-v1-1/Washington.zip) file (98 MB zipped, 691 MB unzipped) conveniently listed, downloaded it, and loaded it into QGIS. I turned on a background map (OSM) to help navigate.
 
-*Screenshot of Washington.zip in QGIS*
+![Zooming in](../assets/img/2020-04-28-building-map-bainbridge/zoom-to-wa.gif "Zooming in")
 
-Very new to QGIS (I'm sure there's a better way of doing this), I zoomed into Puget Sound and used the `freehand select` tool to select just the polygons (buildings) on Bainbridge Island. Being an island surrounded by water, as all islands tend to be, it was easy to define what was a building on Bainbridge and what wasn't. Sadly the buildings aren't labeled, unlike how they are in OpenStreetMap.
+There are quite a few features to be rendered (2,993,361 to be exact).
 
-*Image/GIF of me selecting the buildings on Bainbridge*
+![Loading](../assets/img/2020-04-28-building-map-bainbridge/loading.gif "So many little black dots")
 
-I then copied these polygons into a new virtual layer and went to artistic "work" simply changing the background color, fill color and border color. I used a black background and the same color for both the building fill and border, but put the fill at 75% opacity.
+Very new to QGIS (I'm sure there's a better way of doing this), I zoomed into Puget Sound and used the `Select Features by Freehand` tool to select just the polygons (buildings) on Bainbridge Island. Being an island surrounded by water, as all islands tend to be, it was easy to define what was a building on Bainbridge and what wasn't. You can also turn on a background map to help you navigate. Sadly the buildings aren't labeled, unlike how they are in OpenStreetMap.
+
+![Select](../assets/img/2020-04-28-building-map-bainbridge/select.gif "selection")
+
+I then copied these polygons into a new virtual layer and went to artistic "work" simply changing the background color, fill color and border color. I used a black background and the same purple for both the building fill and border, but put the fill at 75% opacity.
 
 Et voilà, it turned out pretty well!
 
