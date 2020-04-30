@@ -5,7 +5,7 @@ tags: [Maps]
 description: Using Microsoft's building dataset to create an artistic map of my hometown
 # image:
 layout: post
-published: true
+published: false
 ---
 <!-- {::nomarkdown}
 <img 
