@@ -8,13 +8,13 @@ layout: post
 published: true
 comments: true
 ---
-<!-- {::nomarkdown}
+::nomarkdown}
 <img 
-    src="/assets/img/2020-04-28-building-map-bainbridge/Bainbridge-1.svg"
+    src="/assets/img/2020-04-28-building-map-bainbridge/Bainbridge-Buildings.svg"
     alt="Bainbridge Island's buildings"
     height="800"
-    width="1600" />
-{:/} -->
+    width="100%" />
+{:/}
 
 ![Bainbridge Island](../assets/img/2020-04-28-building-map-bainbridge/bainbridge-1.png)
 *Bainbridge Island, my hometown.* 
