@@ -9,9 +9,9 @@ layout: post
 ---
 *Written 2020-04-27*
 
-![1](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_781_PS.jpg)
+[![1](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_781_PS.jpg)](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_781_PS.jpg)
 
-![2](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_784_PS.jpg)
+[![2](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_784_PS.jpg)](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_784_PS.jpg)
 
 ### The Back Story
 
@@ -28,7 +28,7 @@ wheel than a motorbike. That left us with several options:
 
 After reading a bit about traveling by tuktuk in Sri Lanka, we knew it was the way to go.
 
-![3](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_748_PS.jpg)
+[![3](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_748_PS.jpg)](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_748_PS.jpg)
 
 We spent several days in the area, hoping to find the now-elusive *authentic* stilt fishermen.
 After the world saw Steve McCurry's iconic shots of the wonderful traditional practice, 
@@ -39,12 +39,12 @@ We kept hearing rumors that a group was working their way down the coast. On our
 in the area, about two hours before sunset, we finally saw them. As enthusiastic photographers,
 and culturally-insensitive tourists, we snapped away until it got dark.
 
-![4](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_800_PS.jpg)
+[![4](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_800_PS.jpg)](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_800_PS.jpg)
 
 *Some seemed to be experts, while others were just getting started.*
 
-![5](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_801_PS.jpg)
+[![5](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_801_PS.jpg)](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_801_PS.jpg)
 
-![6](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_807_PS.jpg)
+[![6](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_807_PS.jpg)](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_807_PS.jpg)
 
-![7](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_900_PS.jpg)
+[![7](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_900_PS.jpg)](../../assets/img/portfolio/[2018-03-01]-Sri_Lanka/stilt_fishermen/Sri_Lanka_900_PS.jpg)

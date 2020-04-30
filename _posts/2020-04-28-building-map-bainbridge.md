@@ -2,7 +2,7 @@
 title: Buildings
 date: 2020-04-28 20:00:00 +02:00
 tags: [Maps]
-description: Using Microsoft's building dataset to create an artistic map of my hometown
+description: Using Microsoft's Building Dataset to Create an Artistic Map of my Hometown
 # image:
 layout: post
 published: true
