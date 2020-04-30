@@ -3,7 +3,7 @@ title: The Stilt Fishermen of Sri Lanka
 date: 2018-03-02 12:00:00 +02:00
 # Posted 2020-04-27
 tags: [Photography, Travel, Sri Lanka]
-description: Sri Lanka's historic tradition of stilt fishing, in images
+description: Sri Lanka's Historic Tradition of Stilt Fishing
 image: "_posts/stilt-fishermen-sri-lanka/Sri_Lanka_900_PS.jpg"
 layout: post
 ---
