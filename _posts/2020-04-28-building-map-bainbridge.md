@@ -52,3 +52,5 @@ It's interesting to see where the island has been developed, versus where it has
 ![Nature Reserve](../assets/img/2020-04-28-building-map-bainbridge/bainbridge-3.png "Nature Reserve")
 
 You can play around with an interactive version using the qgis2web plugin to export it with leaflet [here](/TestMap), in purple.
+
+![AQI](../assets/img/Beijing.png)
