@@ -6,7 +6,7 @@ description: Using Microsoft's Building Dataset to Create an Artistic Map of my 
 # image:
 layout: post
 published: true
-comments: true
+comments: false
 ---
 <!-- {::nomarkdown}
 <img 
