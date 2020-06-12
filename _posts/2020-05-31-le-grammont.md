@@ -20,11 +20,11 @@ Switzerland has great public transportation, but being the cheap and crazy maste
 
 With far too much coffee and caffine coursing through our veins, we set off from Geneva by bike to Lausanne, roughly 60 km away.
 
-[![Clear Water](../assets/img/2020-05-31-le-grammont/clear_water.jpg "Clear water")](../assets/img/2020-05-31-le-grammont/clear_water.jpg)
-
 <!-- <iframe src="https://ridewithgps.com/embeds?type=trip&id=49814398&metricUnits=true&sampleGraph=true" style="width: 1px; min-width: 100%; height: 500px; border: none;" scrolling="no"></iframe> -->
 
 <iframe src="https://www.komoot.com/tour/201173295/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+
+[![Clear Water](../assets/img/2020-05-31-le-grammont/clear_water.jpg "Clear water")](../assets/img/2020-05-31-le-grammont/clear_water.jpg)
 
 We met our friends in Lausanne. A nice, hearty portion rice salad in the garden fueled the five of us for the next leg of the trip - sitting on the train and bus (for me), and driving (for them) to the trailhead in Miex, Le Flon, where our hike would begin.
 
@@ -62,7 +62,8 @@ Not imagining the view could get any better, we then pushed on to the summit, Le
 
 [![Ibex](../assets/img/2020-05-31-le-grammont/ibex.jpg)](../assets/img/2020-05-31-le-grammont/ibex.jpg)
 
-(SpaceX)
+<!-- (SpaceX) -->
 
+## Day 2: Le Grammont - Taney Lake - Le Flon
 
-
+(coming soon)
