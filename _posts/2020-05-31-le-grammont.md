@@ -18,7 +18,7 @@ Switzerland has great public transportation, but being the cheap and crazy maste
 
 With far too much coffee and caffine coursing through our veins, we set off from Geneva by bike to Lausanne, roughly 60 km away.
 
-<iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3543705228/embed/fdbdbb23ec0fdda9a476e9eeea5cdc04f158e436'></iframe>
+<iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/activities/3543705228/embed/fdbdbb23ec0fdda9a476e9eeea5cdc04f158e436'></iframe>
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=49814398&metricUnits=true&sampleGraph=true" style="width: 1px; min-width: 100%; height: 500px; border: none;" scrolling="no"></iframe>
 
