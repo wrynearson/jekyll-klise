@@ -20,6 +20,8 @@ With far too much coffee and caffine coursing through our veins, we set off from
 
 <iframe height='405' width='full' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3543705228/embed/fdbdbb23ec0fdda9a476e9eeea5cdc04f158e436'></iframe>
 
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=49814398&metricUnits=true&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
 We met our friends in Lausanne. A nice, hearty portion rice salad in the garden fueled the five of us for the next leg of the trip - sitting on the train and bus (for me), and driving (for them) to the trailhead in Miex, Le Flon, where our hike would begin.
 
 # The Hike
