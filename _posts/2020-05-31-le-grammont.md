@@ -5,7 +5,7 @@ tags: [Trips]
 description: A bike & hike adventure with an incredible view of Lake Geneva (Lac Léman)
 # image:
 layout: post
-published: false
+published: true
 comments: false
 ---
 Written on 12 June 2020
