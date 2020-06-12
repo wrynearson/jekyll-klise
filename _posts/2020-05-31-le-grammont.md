@@ -5,7 +5,7 @@ tags: [Trips]
 description: A bike & hike adventure with an incredible view of Lake Geneva (Lac Léman)
 # image:
 layout: post
-published: true
+published: false
 comments: false
 ---
 Written on 12 June 2020
@@ -18,14 +18,14 @@ Switzerland has great public transportation, but being the cheap and crazy maste
 
 With far too much coffee and caffine coursing through our veins, we set off from Geneva by bike to Lausanne, roughly 60 km away.
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3543705228/embed/fdbdbb23ec0fdda9a476e9eeea5cdc04f158e436'></iframe>
+<iframe height='405' width='full' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/activities/3543705228/embed/fdbdbb23ec0fdda9a476e9eeea5cdc04f158e436'></iframe>
 
 We met our friends in Lausanne. A nice, hearty portion rice salad in the garden fueled the five of us for the next leg of the trip - sitting on the train and bus (for me), and driving (for them) to the trailhead in Miex, Le Flon, where our hike would begin.
 
 # The Hike
 ## Le Flon - Taney Lake - Le Grammont
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3543704998/embed/31d65a5599b66bb0b16ed0bca33753170e864753'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/activities/3543704998/embed/31d65a5599b66bb0b16ed0bca33753170e864753'></iframe>
 
 ### Le Flon to Taney Lake
 
