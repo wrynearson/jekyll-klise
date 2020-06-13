@@ -8,7 +8,7 @@ layout: post
 published: true
 comments: false
 ---
-Written on 12 June 2020
+*Written on 12-13 June 2020*
 
 [![Sunset Panorama](../assets/img/2020/../2020-05-31-le-grammont/sunset_pano.jpg "Sunset Panorama")](../assets/img/2020/../2020-05-31-le-grammont/sunset_pano.jpg)
 
@@ -50,20 +50,50 @@ Once we reached the ridge, it was just 10 more minutes or so before we saw one o
 
 [![Lac Léman](../assets/img/2020-05-31-le-grammont/lake_geneva_pano.jpg "Lake Geneva")](../assets/img/2020-05-31-le-grammont/lake_geneva_pano.jpg)
 
-[![Saint Gingolph](../assets/img/2020-05-31-le-grammont/saint-gingolph.jpg)](../assets/img/2020-05-31-le-grammont/saint-gingolph.jpg)
+[![Saint Gingolph](../assets/img/2020-05-31-le-grammont/saint-gingolph.jpg "Saint Gingolph")](../assets/img/2020-05-31-le-grammont/saint-gingolph.jpg)
 
 Not imagining the view could get any better, we then pushed on to the summit, Le Grammont. While quite exposed and cold, we decided to spend the night - the view was just too nice to retreat back into the valley. We set up camp, cooked some pasta, and enjoyed one of the best sunset views of my life.
 
-[![Alpenglow](../assets/img/2020-05-31-le-grammont/alpenglow.jpg)](../assets/img/2020-05-31-le-grammont/alpenglow.jpg)
+[![Alpenglow](../assets/img/2020-05-31-le-grammont/alpenglow.jpg "Alpenglow")](../assets/img/2020-05-31-le-grammont/alpenglow.jpg)
 
-[![Sunset with friends](../assets/img/2020-05-31-le-grammont/sunset_friends.jpg)](../assets/img/2020-05-31-le-grammont/sunset_friends.jpg)
+[![Sunset with friends](../assets/img/2020-05-31-le-grammont/sunset_friends.jpg "Sunset with friends")](../assets/img/2020-05-31-le-grammont/sunset_friends.jpg)
 
-[![Dinner](../assets/img/2020-05-31-le-grammont/dinner.jpg)](../assets/img/2020-05-31-le-grammont/dinner.jpg)
+[![Dinner](../assets/img/2020-05-31-le-grammont/dinner.jpg "Dinner")](../assets/img/2020-05-31-le-grammont/dinner.jpg)
 
-[![Ibex](../assets/img/2020-05-31-le-grammont/ibex.jpg)](../assets/img/2020-05-31-le-grammont/ibex.jpg)
+[![Ibex](../assets/img/2020-05-31-le-grammont/ibex.jpg "Ibex")](../assets/img/2020-05-31-le-grammont/ibex.jpg)
 
 <!-- (SpaceX) -->
 
 ## Day 2: Le Grammont - Taney Lake - Le Flon
 
-(coming soon)
+We woke up just seconds before the sun peaked out from behind the mountains, so we groggily dashed out of our tents to capture it. Once again, the views from the top of Le Grammont didn't dissapoint.
+
+[![Camp](../assets/img/2020-05-31-le-grammont/alpenglow_tents.jpg "Camp")](../assets/img/2020-05-31-le-grammont/alpenglow_tents.jpg)
+
+[![Alpenglow](../assets/img/2020-05-31-le-grammont/alpenglow_sunrise.jpg "More alpenglow")](../assets/img/2020-05-31-le-grammont/alpenglow_sunrise.jpg)
+
+A nice, freezing morning of reflection, coffee and running around chasing birds was followed by our departure from the best campsite back down towards civilization.
+
+<iframe src="https://www.komoot.com/tour/201527349/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+
+[![Ridge](../assets/img/2020-05-31-le-grammont/ridge.jpg "The Ridge")](../assets/img/2020-05-31-le-grammont/ridge.jpg)
+
+[![Panoramic vistas](../assets/img/2020-05-31-le-grammont/mountains_and_lake_pano.jpg "Not a bad view in any direction")](../assets/img/2020-05-31-le-grammont/mountains_and_lake_pano.jpg)
+
+Our path down was slightly different than the way up. This way had less of a developed trail, and at times had us walking across a grassy field.
+
+[![Path](../assets/img/2020-05-31-le-grammont/trail.jpg)](../assets/img/2020-05-31-le-grammont/trail.jpg)
+
+We were quickly back at Taney Lake, where we spent half an hour relaxing by the water's edge. While we had all been tempted to swim, clouds rolled in lowering the air temperature, so we decided to pass. The area around the lake was extremely busy - I guess people have discovered this secret spot long ago.
+
+Another quick segment later and we were back at the car. A quick shuttle down the hill and a longer commute back to Lausanne brought us to a lovely homemade lunch and a nice afternoon by the beach. However relaxing it was, we still had a long bike ride back.
+
+<iframe src="https://www.komoot.com/tour/201550894/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+
+We chose to go the slightly longer but more scenic route. It didn't dissapoint!
+
+[![Lac Léman](../assets/img/2020-05-31-le-grammont/lake_geneva_bike_pano.jpg "Lac Léman)](../assets/img/2020-05-31-le-grammont/lake_geneva_bike_pano.jpg)
+
+# Conclusion
+
+Le Grammont, at 2172m, is one of the highest points overlooking Lake Geneva, and definitely one of the most beautiful. It was a great overnight trip, and can be extended into a longer trip by incorporating it into [stage 34](https://www.schweizmobil.ch/en/hiking-in-switzerland/routes/route/etappe-01331.html) of the [Alpine Passes Trail](https://www.schweizmobil.ch/en/hiking-in-switzerland/route-06.html) (National Route 6), or beyond.
