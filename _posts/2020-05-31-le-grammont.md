@@ -82,7 +82,7 @@ A nice, freezing morning of reflection, coffee and running around chasing birds 
 
 Our path down was slightly different than the way up. This way had less of a developed trail, and at times had us walking across a grassy field.
 
-[![Path](../assets/img/2020-05-31-le-grammont/trail.jpg)](../assets/img/2020-05-31-le-grammont/trail.jpg)
+[![](../assets/img/2020-05-31-le-grammont/trail.jpg "The view looking back")](../assets/img/2020-05-31-le-grammont/trail.jpg)
 
 We were quickly back at Taney Lake, where we spent half an hour relaxing by the water's edge. While we had all been tempted to swim, clouds rolled in lowering the air temperature, so we decided to pass. The area around the lake was extremely busy - I guess people have discovered this secret spot long ago.
 
@@ -92,7 +92,7 @@ Another quick segment later and we were back at the car. A quick shuttle down th
 
 We chose to go the slightly longer but more scenic route. It didn't dissapoint!
 
-[![Lac Léman](../assets/img/2020-05-31-le-grammont/lake_geneva_bike_pano.jpg "Lac Léman)](../assets/img/2020-05-31-le-grammont/lake_geneva_bike_pano.jpg)
+[![Lac Léman](../assets/img/2020-05-31-le-grammont/lake_geneva_bike_pano.jpg "Lac Léman")](../assets/img/2020-05-31-le-grammont/lake_geneva_bike_pano.jpg)
 
 # Conclusion
 
