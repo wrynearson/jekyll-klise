@@ -1,5 +1,5 @@
 ---
-title: Le Grammont - Trip Report
+title: Le Grammont
 date: 2020-05-31 20:00:00 +02:00
 tags: [Trip, Switzerland, Hike]
 description: A bike & hike adventure with an incredible view of Lake Geneva (Lac Léman)
