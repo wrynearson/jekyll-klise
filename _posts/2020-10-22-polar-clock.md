@@ -7,8 +7,9 @@ layout: post
 published: true
 comments: false
 ---
+
 <div class="chart"></div>
-<!-- <p>Credit: <a href="https://observablehq.com/d/e590bef5c3cb1d06">Polar Clock by wrynearson</a></p> -->
+<p>Credit: <a href="https://observablehq.com/d/e590bef5c3cb1d06">Polar Clock by wrynearson</a></p>
 
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
