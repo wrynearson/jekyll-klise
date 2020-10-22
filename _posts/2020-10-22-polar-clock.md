@@ -8,7 +8,7 @@ published: true
 comments: false
 ---
 
-#
+This is a polar clock I edited from [this](https://observablehq.com/@mbostock/polar-clock):
 
 <div class="chart"></div>
 
@@ -19,5 +19,3 @@ import define from "https://api.observablehq.com/d/e590bef5c3cb1d06.js?v=3";
   if (name === "chart") return Inspector.into(".chart")();
 });
 </script>
-
-This is a polar clock I edited from [this](https://observablehq.com/@mbostock/polar-clock):
