@@ -10,4 +10,4 @@ comments: false
 
 # Choropleth
 
-[this](/assets/files/choropleth.html)
+<EMBED SRC="assets\files\choropleth.html">
