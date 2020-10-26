@@ -10,4 +10,4 @@ comments: false
 
 # Choropleth
 
-<EMBED SRC="..assets/files/choropleth.html">
+<INPUT SRC="..assets/files/choropleth.html">
