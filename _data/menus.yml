@@ -2,6 +2,10 @@
   url: /
   external: false
 
+- title: photography portfolio
+  url: https://wrynearson.github.io/portfolio
+  external: true
+
 - title: resume
   url: https://wrynearson.github.io/online-cv/
   external: true
