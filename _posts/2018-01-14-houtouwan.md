@@ -12,11 +12,11 @@ author: Will Rynearson & Hibshy Samsadin
 
 “Autumn isn’t bad, but you should be here in the summer. The water is bluer, the vegetation is greener, and the air is cleaner,” said the taxi driver after our boat had arrived on a cold winter’s afternoon.
 
-The taxi drivers of Goǔqǐ Island 枸杞岛 hadn’t seen much trade of late but, after our surprisingly long journey, our personal chauffeur of the island was more than happy to sing the praises of his faraway home. Coming from the persistent grey haze of the Shanghai ‘Big Smoke’, we immediately saw the benefits of the pure island air.
+The taxi drivers of Goǔqǐ Island ```枸杞岛``` hadn’t seen much trade of late but, after our surprisingly long journey, our personal chauffeur of the island was more than happy to sing the praises of his faraway home. Coming from the persistent grey haze of the Shanghai ‘Big Smoke’, we immediately saw the benefits of the pure island air.
 
 [![1](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-houtouwan/1.jpg)](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-houtouwan/1.jpg)
 
-Goǔqǐ island, together with neighbouring Shèngshān Island 嵊山岛, are best known for Houtouwan, an abandoned fishing village on the northern coast of Shengshan Island. During it’s prime in the 1980’s, over 3,000 residents called this place their home. However, the attractiveness of a faster life on the other side of the island, and nearby Shanghai, pulled most of the residence away, leaving fewer and fewer as time passed by. Today, only rumours of an old lady and one lonely fisherman remain.
+Goǔqǐ island, together with neighbouring Shèngshān Island ```嵊山岛```, are best known for Houtouwan, an abandoned fishing village on the northern coast of Shengshan Island. During it’s prime in the 1980’s, over 3,000 residents called this place their home. However, the attractiveness of a faster life on the other side of the island, and nearby Shanghai, pulled most of the residence away, leaving fewer and fewer as time passed by. Today, only rumours of an old lady and one lonely fisherman remain.
 
 [![2](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-houtouwan/2.jpg)](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-houtouwan/2.jpg)
 [![3](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-houtouwan/3.jpg)](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-houtouwan/3.jpg)
