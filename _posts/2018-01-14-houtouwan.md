@@ -1,14 +1,13 @@
 ---
 title: Roasted Chestnuts, Chinese Crackers and an Adequate View
 date: 2020-12-12 16:50:00 +01:00
-# Posted 2020-04-27
 tags: [Photography, Travel, China]
 description: The abandoned fishing village of Hòutouwān 后头湾 and the surrounding Shèngshān 嵊山岛 and Goǔqǐ 枸杞岛 islands.
 image: "_assets/img/2020-12-08-houtouwan/9.jpg"
 layout: post
 author: Will Rynearson
 ---
-*Originally written with Hibshy Samsadin on January 14th, 2018 for Clamp Magazine from a trip in late 2017.*
+*```Originally written with Hibshy Samsadin on January 14th, 2018 for Clamp Magazine from a trip in late 2017.```*
 
 “Autumn isn’t bad, but you should be here in the summer. The water is bluer, the vegetation is greener, and the air is cleaner,” said the taxi driver after our boat had arrived on a cold winter’s afternoon.
 
