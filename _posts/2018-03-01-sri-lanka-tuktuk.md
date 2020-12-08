@@ -7,7 +7,7 @@ image: "_assets/img/2020-12-08-sri-lanka-tuk-tuk/12.jpg"
 layout: post
 published: true
 ---
-*```Written on July 6th, 2018 for Clamp Magazine from a trip in early 2018.```*
+*Written on July 6th, 2018 for Clamp Magazine from a trip in early 2018.*
 
 [![12](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-sri-lanka-tuk-tuk/12.jpg)](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-sri-lanka-tuk-tuk/12.jpg)
 
