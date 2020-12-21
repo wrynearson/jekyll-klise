@@ -15,7 +15,7 @@ The taxi drivers of Goǔqǐ Island ```枸杞岛``` hadn’t seen much trade of l
 
 [![1](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-houtouwan/1.jpg)](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-houtouwan/1.jpg)
 
-Goǔqǐ island, together with neighbouring Shèngshān Island ```嵊山岛```, are best known for Houtouwan, an abandoned fishing village on the northern coast of Shengshan Island. During it’s prime in the 1980’s, over 3,000 residents called this place their home. However, the attractiveness of a faster life on the other side of the island, and nearby Shanghai, pulled most of the residence away, leaving fewer and fewer as time passed by. Today, only rumours of an old lady and one lonely fisherman remain.
+Goǔqǐ island, together with neighboring Shèngshān Island ```嵊山岛```, are best known for Houtouwan, an abandoned fishing village on the northern coast of Shèngshān Island. During it’s prime in the 1980’s, over 3,000 residents called this place their home. However, the attractiveness of a faster life on the other side of the island, and nearby Shanghai, pulled most of the residence away, leaving fewer and fewer as time passed by. Today, only rumor of an old lady and one lonely fisherman remain.
 
 [![2](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-houtouwan/2.jpg)](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-houtouwan/2.jpg)
 [![3](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-houtouwan/3.jpg)](../../assets/img/../../wrynearson.github.io/assets/img/2020-12-08-houtouwan/3.jpg)

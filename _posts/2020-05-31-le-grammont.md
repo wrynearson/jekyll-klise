@@ -18,7 +18,7 @@ A few weeks after seeing some incredible photos from [this post](https://www.nov
 
 Switzerland has great public transportation, but being the cheap and crazy master's students that we are, we decided to get there by less-conventional methods - a mixture of biking, driving (for the friends, public transportation for me), and of course, hiking.
 
-With far too much coffee and caffine coursing through our veins, we set off from Geneva by bike to Lausanne, roughly 60 km away.
+With far too much coffee and caffeine coursing through our veins, we set off from Geneva by bike to Lausanne, roughly 60 km away.
 
 <!-- <iframe src="https://ridewithgps.com/embeds?type=trip&id=49814398&metricUnits=true&sampleGraph=true" style="width: 1px; min-width: 100%; height: 500px; border: none;" scrolling="no"></iframe> -->
 
@@ -36,7 +36,7 @@ We met our friends in Lausanne. A nice, hearty portion rice salad in the garden 
 
 ### Le Flon to Taney Lake
 
-A quick 35 minutes of moving timeand 350m up through a nice wooded trail brough us to the beautiful alpine Taney Lake. This is a very accessable (and very popular) day hike, and for good reason. The short hike up leads hikers to a clear, deep blue lake surrounded by towering peaks and alpine vegetation, with cute and rustic Swiss lodges offering food, drink and a few beds to spend the night. We didn't let these comforts distract us, so we kept on climbing.
+A quick 35 minutes of moving time and 350m up through a nice wooded trail brought us to the beautiful alpine Taney Lake. This is a very accessible (and very popular) day hike, and for good reason. The short hike up leads hikers to a clear, deep blue lake surrounded by towering peaks and alpine vegetation, with cute and rustic Swiss lodges offering food, drink and a few beds to spend the night. We didn't let these comforts distract us, so we kept on climbing.
 
 [![Taney Lake](../assets/img/2020-05-31-le-grammont/taney_lake.jpg "Taney Lake")](../assets/img/2020-05-31-le-grammont/taney_lake.jpg)
 
@@ -66,7 +66,7 @@ Not imagining the view could get any better, we then pushed on to the summit, Le
 
 ## Day 2: Le Grammont - Taney Lake - Le Flon
 
-We woke up just seconds before the sun peaked out from behind the mountains, so we groggily dashed out of our tents to capture it. Once again, the views from the top of Le Grammont didn't dissapoint.
+We woke up just seconds before the sun peaked out from behind the mountains, so we groggily dashed out of our tents to capture it. Once again, the views from the top of Le Grammont didn't disappoint.
 
 [![Camp](../assets/img/2020-05-31-le-grammont/alpenglow_tents.jpg "Camp")](../assets/img/2020-05-31-le-grammont/alpenglow_tents.jpg)
 
@@ -90,7 +90,7 @@ Another quick segment later and we were back at the car. A quick shuttle down th
 
 <iframe src="https://www.komoot.com/tour/201550894/embed?profile=1" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
 
-We chose to go the slightly longer but more scenic route. It didn't dissapoint!
+We chose to go the slightly longer but more scenic route. It didn't disappoint!
 
 [![Lac Léman](../assets/img/2020-05-31-le-grammont/lake_geneva_bike_pano.jpg "Lac Léman")](../assets/img/2020-05-31-le-grammont/lake_geneva_bike_pano.jpg)
 
