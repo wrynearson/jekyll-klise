@@ -5,7 +5,7 @@ tags: [Trip, Switzerland, France, Italy, Bike]
 description:
 image:
 layout: post
-published: false
+published: true
 ---
 
 ## Day 1:  Geneva - Col de Tamiè
@@ -55,14 +55,14 @@ published: false
 
 ## Day 5: Col d'Agnel - Castelvecchio di Rocca Barbena
 
-#### Break
+---
 
+### Break in Castelveccio
 
+---
 
 ## Day 6: Castelvecchio di Rocca Barbena - Celle
 
 
 
 ## Day 7: Celle - Genova
-
-- 
