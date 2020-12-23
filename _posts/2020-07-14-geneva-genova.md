@@ -47,7 +47,7 @@ published: false
 - The sunset at roughly 21:30 knocked us out of this meditation and gave us motivation to continue the gorgeous ascent on perfect tarmac.
   - Lugers were taking advantage of the good conditions and near-zero car traffic, so much so that they almost collided with us!
 - A dusk photo under the summit monument gave us an earned sense of accomplishment.
-- We hiked up another 20m to a flat patch of land and slept soudly
+- We hiked up another 20m to a flat patch of land and slept soundly.
 
 ## Day 4: Col d'Izoard - Col d'Agnel
 
