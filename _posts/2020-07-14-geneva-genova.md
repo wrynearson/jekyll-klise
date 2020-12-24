@@ -51,7 +51,22 @@ published: false
 
 ## Day 4: Col d'Izoard - Col d'Agnel
 
-
+- A sound evening and gorgeous morning lead to a fantastic (and cold) decent of roughly `1000m` into the gorgeous heart of the *Parc naturel régional du Queyras*.
+- We reached a fork in the road and decided to pause for a few minutes.
+  - Just then, our next encounter would change the trip entirely.
+  - Our original plan was to do two cols (NAME).
+  - We saw an older man bike from our intended direction towards the other fork in the road. He told us about the beauty and terror that is Col d'Agnel `2744m`, a full 1400m above our fork in the road.
+  - It sounded crazy, but after 10 minutes of deliberation, we committed to conquering it.
+- After lunch in a quaint village at the base of the climb, we spent the next 3 hours grinding our chains and pedals to get to what felt like the top of the world.
+  - This was an absolute beast of a col, but one of rugged, almost otherworldly beauty.
+  - Two 700m climbs of 7-13% gradient were split almost equally with a reprieve 0-2% incline.
+  - Quaint villages and grasslands below gave way to rugged peaks and narrow roads up above. What stayed constant was the unrelenting sun turning us into lobsters, as any sunscreen was quickly sweated away.
+  - The final push to the top was (for Will) a true test of mental grit and determination. Several times, I (Will) thought that the unending road was insurmountable.
+  - With just a few hundred meters to go and the col in sight, we both put our heads down and went all out in the thinning air.
+  - The emotions we felt, combined with the views, were simply indescribable. Such jagged mountains and vibrant vegetation shouldn't be possible to coexist!
+  - We savored the moment, the look back across our traversed terrain in France, and peered into our upcoming adventures in Italy.
+- The next 15km were pure joy - steep, straight descents into pure beauty. Despite the poor road conditions and reckless camper vans, we couldn't help ourselves from trying to set land speed records.
+- We ended our descent early in the day in Pontechianale and treated ourselves to as many Italian specialties as we could fit in our stomachs.
 
 ## Day 5: Col d'Agnel - Castelvecchio di Rocca Barbena
 
