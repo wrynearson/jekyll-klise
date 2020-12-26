@@ -70,13 +70,32 @@ published: false
 
 ## Day 5: Col d'Agnel - Castelvecchio di Rocca Barbena
 
+- Got one of our earliest start (at 8.40 :smile:) after breakfast at the bakery (+ sweets for the rest of the day in a paper bag) and packing
+- 50 km long unending relentless descent on with _suboptimal_ road conditions (flying mats) with a coffee break in a gas station in Sepeyre
+- Our next segment was disciplined by necessity, as we needed to make it to Castelvecchio by the evening. Steady pace at around 30 km/h in the _Pianura padana_ with infrequent water breaks while the temps were rising 
+- Well-deserved lunch  at 13 in Mondovì: two plates of pasta, prosciutto e melone and caprese (+ chinotto)
+- After seriously considering to swim in the public fountain, despite the 32º we set off on a few baby cols
+- The heat and the gradient instantly negated the fuel from our lunch 
+- Water and people were scarce: it took time to find someone to ask to refill our bottles (lady and cleaning lady)
+- After the first baby col we found ourselves struggling in the heat near _località Fornaci_, on 15-20% roads 
+- To reward our efforts, we treated ourselves to icecream and iced tea and gassosa in Bagnasco: the last serious climb of the day, on top of which we would meet Michele
+- Last 30 km went like a breeze, with Michele setting the pace like two stranded swimmers being towed back to the beach from the sea, drinking water from the spring in Calizzano 
+- Last but not least: _Colle dello Scravaion_. Pure joy and sense of victory. Francesco was screaming to let go of all the effort, fatigue and adrenaline. 
+- On our final descent, we looked at what was maybe the best view of the trip. Our family and friends waiting for us and a big dinner. 
 
-### Break in Castelveccio
+### Break in Castelvecchio
+
+*Friends, family, food, adventure, hikes, chilling, and everything else that's good in life*. 
 
 ---
 
 ## Day 6: Castelvecchio di Rocca Barbena - Celle
 
-
+- Our quick pit stop in Castelvecchio turned into a week of pure joy and recovery, both mentally and physically. Still, we managed to get in a 87 km ride with 2300+ meters of elevation for Will's birthday, togehter with Michele. 
+- We descended towards Celle passing through Balestrino and Capo Noli
+- We arrived in Celle for lunch and for a swim - chilling with Nonna 
 
 ## Day 7: Celle - Genova
+
+- Nice ride for the first half on the cycling way next to the sea and then some traffic dodging 
+- With the end in sight, we raced through traffic to get to Francesco's home town and finish the journey (actually, only half of it)
