@@ -10,7 +10,7 @@ published: true
 
 ## Day 1:  Geneva - Col de Tamiè
 
-<iframe height='500' width='700' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3704674904/embed/7d6fa5d71da2240695db4b04c6522b3cfac8fcf4'></iframe>
+<iframe height='500' width='700' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/activities/3704674904/embed/7d6fa5d71da2240695db4b04c6522b3cfac8fcf4'></iframe>
 
 - Started in the early afternoon, due to packing and logistics with friends and family.
   - Francesco's last day in Geneva!
