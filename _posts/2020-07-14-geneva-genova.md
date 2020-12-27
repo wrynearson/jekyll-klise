@@ -10,6 +10,8 @@ published: true
 
 # Geneva to Genova
 
+![relive](../assets/img/2020-07-14-geneva-genova/relive.gif)
+
 #### Navigation
 
 - [Preface](https://wrynearson.github.io/geneva-genova/#preface)
@@ -21,6 +23,7 @@ published: true
 - [*Break in Castelvecchio*](https://wrynearson.github.io/geneva-genova/#break-in-castelvecchio)
 - [Day 6: Castelvecchio di Rocca Barbena - Celle](https://wrynearson.github.io/geneva-genova/#day-6-castelvecchio-di-rocca-barbena---celle)
 - [Day 7: Celle - Genova](https://wrynearson.github.io/geneva-genova/#day-7-celle---genova)
+- [Conclusion](https://wrynearson.github.io/geneva-genova/#conclusion)
 
 ~relive video below~
 
