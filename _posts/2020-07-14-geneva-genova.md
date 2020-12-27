@@ -5,7 +5,7 @@ tags: [Trip, Switzerland, France, Italy, Bike]
 description:
 image:
 layout: post
-published: true
+published: false
 ---
 
 ![relive](../assets/img/2020-07-14-geneva-genova/relive.gif)
@@ -52,13 +52,15 @@ Let the trip begin! :biking_man::biking_man::biking_man:
 
 ### Notes
 
->- Johan, Fra and Will started in the early afternoon, due to packing and logistics with friends and family.
->  - Francesco's last day in Geneva!
->- Went to Annecy first, we were excited but the road and traffic condition wasn't great.
->- We arrived at 17:30, and took advantage of our first accomplishment with a tour of the beautiful city and a large dinner filled with beer and cheese.
->- Post-dinner ride along the gorgeous lake and cycling path with dramatic skies and full stomachs.
->- Planned on arriving before dark, but made it to the lesser-known Col de Tamiè `907m` at 22:30 and set up camp due to photo stops and bathroom emergencies.
->  - We assumed it was in the middle of nowhere, but was next to a touristic restaurant and livestock.
+
+
+- Johan, Fra and Will started in the early afternoon, due to packing and logistics with friends and family.
+  - Francesco's last day in Geneva!
+- Went to Annecy first, we were excited but the road and traffic condition wasn't great.
+- We arrived at 17:30, and took advantage of our first accomplishment with a tour of the beautiful city and a large dinner filled with beer and cheese.
+- Post-dinner ride along the gorgeous lake and cycling path with dramatic skies and full stomachs.
+- Planned on arriving before dark, but made it to the lesser-known Col de Tamiè `907m` at 22:30 and set up camp due to photo stops and bathroom emergencies.
+  - We assumed it was in the middle of nowhere, but was next to a touristic restaurant and livestock.
 
 ---
 
