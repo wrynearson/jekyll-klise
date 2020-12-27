@@ -8,12 +8,11 @@ layout: post
 published: true
 ---
 
-# Geneva to Genova
-
 ![relive](../assets/img/2020-07-14-geneva-genova/relive.gif)
 
-#### Navigation
+## Summary
 
+- [Intro](https://wrynearson.github.io/geneva-genova/#geneva-to-genova)
 - [Preface](https://wrynearson.github.io/geneva-genova/#preface)
 - [Day 1: Geneva - Col de Tamiè](https://wrynearson.github.io/geneva-genova/#day-1--geneva---col-de-tami%C3%A8)
 - [Day 2: Col de Tamiè - Col du Télégraphie](https://wrynearson.github.io/geneva-genova/#day-2-col-de-tami%C3%A8---col-du-t%C3%A9l%C3%A9graphie)
@@ -31,7 +30,7 @@ published: true
 
 ~relive video above~
 
-### Preface
+## Preface
 
 Any story written in 2020 must be prefaced with COVID-19. Our story is no exception. 
 
@@ -45,19 +44,21 @@ Later that Spring, we starting dreaming of bigger, further, and more adventurous
 
 At `524km` and `8007m` of elevation gain, this trip headed SSE from Switzerland through France and into Italy before ending on the Mediterranean. This trip passed through **XXX** cols (mountain passes), including the famous *Col Du Galibier* in France and *Col d'Agnel* on the French/Italian border. We took a break in a tiny village in which Francesco's family has accommodation to meet his family and our friends before continuing to his home town. 
 
-Let the trip begin! :bicyclist:
+Let the trip begin! :biking_man::biking_man::biking_man:
 
 ## Day 1:  Geneva - Col de Tamiè
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3704674904/embed/7d6fa5d71da2240695db4b04c6522b3cfac8fcf4'></iframe>
 
-- Johan, Fra and Will started in the early afternoon, due to packing and logistics with friends and family.
-  - Francesco's last day in Geneva!
-- Went to Annecy first, we were excited but the road and traffic condition wasn't great.
-- We arrived at 17:30, and took advantage of our first accomplishment with a tour of the beautiful city and a large dinner filled with beer and cheese.
-- Post-dinner ride along the gorgeous lake and cycling path with dramatic skies and full stomachs.
-- Planned on arriving before dark, but made it to the lesser-known Col de Tamiè `907m` at 22:30 and set up camp due to photo stops and bathroom emergencies.
-  - We assumed it was in the middle of nowhere, but was next to a touristic restaurant and livestock.
+### Notes
+
+>- Johan, Fra and Will started in the early afternoon, due to packing and logistics with friends and family.
+>  - Francesco's last day in Geneva!
+>- Went to Annecy first, we were excited but the road and traffic condition wasn't great.
+>- We arrived at 17:30, and took advantage of our first accomplishment with a tour of the beautiful city and a large dinner filled with beer and cheese.
+>- Post-dinner ride along the gorgeous lake and cycling path with dramatic skies and full stomachs.
+>- Planned on arriving before dark, but made it to the lesser-known Col de Tamiè `907m` at 22:30 and set up camp due to photo stops and bathroom emergencies.
+>  - We assumed it was in the middle of nowhere, but was next to a touristic restaurant and livestock.
 
 ---
 
