@@ -10,6 +10,18 @@ published: true
 
 # Geneva to Genova
 
+#### Navigation
+
+- [Preface](https://wrynearson.github.io/geneva-genova/#preface)
+- [Day 1: Geneva - Col de Tamiè](https://wrynearson.github.io/geneva-genova/#day-1--geneva---col-de-tami%C3%A8)
+- [Day 2: Col de Tamiè - Col du Télégraphie](https://wrynearson.github.io/geneva-genova/#day-2-col-de-tami%C3%A8---col-du-t%C3%A9l%C3%A9graphie)
+- [Day 3: Col du Télégraphie - Col Du Galibier - Col d’Izoard](https://wrynearson.github.io/geneva-genova/#day-3-col-du-t%C3%A9l%C3%A9graphie---col-du-galibier---col-dizoard)
+- [Day 4: Col d’Izoard - Col d’Agnel](https://wrynearson.github.io/geneva-genova/#day-4-col-dizoard---col-dagnel)
+- [Day 5: Col d’Agnel - Castelvecchio di Rocca Barbena](https://wrynearson.github.io/geneva-genova/#day-5-col-dagnel---castelvecchio-di-rocca-barbena)
+- [*Break in Castelvecchio*](https://wrynearson.github.io/geneva-genova/#break-in-castelvecchio)
+- [Day 6: Castelvecchio di Rocca Barbena - Celle](https://wrynearson.github.io/geneva-genova/#day-6-castelvecchio-di-rocca-barbena---celle)
+- [Day 7: Celle - Genova](https://wrynearson.github.io/geneva-genova/#day-7-celle---genova)
+
 ~relive video below~
 
 <div class="embedly-responsive" style="position: relative;padding-bottom: 78.2227%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="https://cdn.embedly.com/widgets/media.html?src=https://www.relive.cc/view/vrqD4ryrmLq/widget?r=embed-site&url=https://www.relive.cc/view/vrqD4ryrmLq?r=embed-site&image=https://www.relive.cc/view/vrqD4ryrmLq/png?x-ref=embed-site&key=f1631a41cb254ca5b035dc5747a5bd75&type=text/html&schema=relive" width="1024" height="801" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
@@ -28,9 +40,9 @@ In March, after COVID-19 restrictions came into effect essentially freeing the r
 
 Later that Spring, we starting dreaming of bigger, further, and more adventurous rides. We did an overnight 'bike to hike' camping trip, and then a full circuit of lake Geneva, *le tour du lac* `219km` .  At this point we planned a 2 day (really 2.5 day) Rhône Route `310km` trip *(trip report in the future)* with another willing accomplice, Johan, and then our first truly daring adventure, a trip home for him to Genova.
 
-At `524km` and `8007m` of elevation gain, this trip headed SSE from Switzerland through France and into Italy before ending on the Mediterranean. This trip passed through XXX cols (mountain passes), including the famous *Col Du Galibier* in France and *Col d'Agnel* on the French/Italian border. We took a break in a tiny village in which Francesco's family has accommodation to meet his family and our friends before continuing to his home town. 
+At `524km` and `8007m` of elevation gain, this trip headed SSE from Switzerland through France and into Italy before ending on the Mediterranean. This trip passed through **XXX** cols (mountain passes), including the famous *Col Du Galibier* in France and *Col d'Agnel* on the French/Italian border. We took a break in a tiny village in which Francesco's family has accommodation to meet his family and our friends before continuing to his home town. 
 
-Let the trip begin.
+Let the trip begin! :bicyclist:
 
 ## Day 1:  Geneva - Col de Tamiè
 
@@ -144,3 +156,7 @@ Let the trip begin.
 
 - Nice ride for the first half on the cycling way next to the sea and then some traffic dodging 
 - With the end in sight, we raced through traffic to get to Francesco's home town and finish the journey (actually, only half of it
+
+## Conclusion
+
+Amazing ride!
