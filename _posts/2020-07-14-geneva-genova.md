@@ -8,17 +8,45 @@ layout: post
 published: true
 ---
 
+# Geneva to Genova
+
+~relive video below~
+
+<div class="embedly-responsive" style="position: relative;padding-bottom: 78.2227%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="https://cdn.embedly.com/widgets/media.html?src=https://www.relive.cc/view/vrqD4ryrmLq/widget?r=embed-site&url=https://www.relive.cc/view/vrqD4ryrmLq?r=embed-site&image=https://www.relive.cc/view/vrqD4ryrmLq/png?x-ref=embed-site&key=f1631a41cb254ca5b035dc5747a5bd75&type=text/html&schema=relive" width="1024" height="801" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
+
+~relive video above~
+
+### Preface
+
+Any story written in 2020 must be prefaced with COVID-19. Our story is no exception. 
+
+Francesco and I had met through our shared masters program in Geneva in the autumn of 2019, and instantly began thinking of outdoor excursions to do in our vicinity. While we both enjoy hiking and skiing, Francesco's main outdoor calling is cycling. I've always been comfortable on a bike, and had completed an ill-prepared but thoroughly enjoyable monthlong trip across the North Island of New Zealand in 2014, but had never considered myself a cyclist. Heck, the closest thing I had ever owned to a road bike was a single speed / fixie Schwinn with drop handlebars during my undergraduate studies.
+
+Francesco, on the other hand, was more at home on the saddle. Having grown up in Genova, Liguria :it: , he had gone on several trips with his cycling uncle during his formative years, and had some time riding on carbon fiber under his belt. Being in Switzerland after all, famously home to not only beautiful mountain passes and lush landscapes, but also perfectly paved roads, cycling was definitely on his list of things to do there.
+
+In March, after COVID-19 restrictions came into effect essentially freeing the roads of cars, plus a few fun but excruciating rides on my piece of crap city bike, I upgraded to a house-brand aluminum bike, and our training began. Or so we realized in hindsight, since really we just started riding frequently around the *Grand Genève* region. Our weekly rides of several dozen kilometers quickly turned into longer and thrice-weekly rides which ventured into neighboring *canton Vaud*. Little did I know that Francesco was going almost daily.
+
+Later that Spring, we starting dreaming of bigger, further, and more adventurous rides. We did an overnight 'bike to hike' camping trip, and then a full circuit of lake Geneva, *le tour du lac* `219km` .  At this point we planned a 2 day (really 2.5 day) Rhône Route `310km` trip *(trip report in the future)* with another willing accomplice, Johan, and then our first truly daring adventure, a trip home for him to Genova.
+
+At `524km` and `8007m` of elevation gain, this trip headed SSE from Switzerland through France and into Italy before ending on the Mediterranean. This trip passed through XXX cols (mountain passes), including the famous *Col Du Galibier* in France and *Col d'Agnel* on the French/Italian border. We took a break in a tiny village in which Francesco's family has accommodation to meet his family and our friends before continuing to his home town. 
+
+Let the trip begin.
+
 ## Day 1:  Geneva - Col de Tamiè
 
-<iframe height='500' width='700' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/activities/3704674904/embed/7d6fa5d71da2240695db4b04c6522b3cfac8fcf4'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3704674904/embed/7d6fa5d71da2240695db4b04c6522b3cfac8fcf4'></iframe>
 
-- Started in the early afternoon, due to packing and logistics with friends and family.
+- Johan, Fra and Will started in the early afternoon, due to packing and logistics with friends and family.
   - Francesco's last day in Geneva!
 - Went to Annecy first, we were excited but the road and traffic condition wasn't great.
 - We arrived at 17:30, and took advantage of our first accomplishment with a tour of the beautiful city and a large dinner filled with beer and cheese.
 - Post-dinner ride along the gorgeous lake and cycling path with dramatic skies and full stomachs.
 - Planned on arriving before dark, but made it to the lesser-known Col de Tamiè `907m` at 22:30 and set up camp due to photo stops and bathroom emergencies.
   - We assumed it was in the middle of nowhere, but was next to a touristic restaurant and livestock.
+
+---
+
+
 
 ## Day 2: Col de Tamiè - Col du Télégraphie
 
