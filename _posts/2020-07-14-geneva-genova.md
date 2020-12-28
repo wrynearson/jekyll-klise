@@ -5,12 +5,12 @@ tags: [Trip, Switzerland, France, Italy, Bike]
 description:
 image:
 layout: post
-published: false
+published: true
 ---
 
 ![relive](../assets/img/2020-07-14-geneva-genova/relive.gif)
 
-## Summary
+# Summary
 
 - [Intro](https://wrynearson.github.io/geneva-genova/#geneva-to-genova)
 - [Preface](https://wrynearson.github.io/geneva-genova/#preface)
@@ -30,7 +30,7 @@ published: false
 
 ~relive video above~
 
-## Preface
+# Preface
 
 Any story written in 2020 must be prefaced with COVID-19. Our story is no exception. 
 
@@ -40,11 +40,19 @@ Francesco, on the other hand, was more at home on the saddle. Having grown up in
 
 In March, after COVID-19 restrictions came into effect essentially freeing the roads of cars, plus a few fun but excruciating rides on my piece of crap city bike, I upgraded to a house-brand aluminum bike, and our training began. Or so we realized in hindsight, since really we just started riding frequently around the *Grand Genève* region. Our weekly rides of several dozen kilometers quickly turned into longer and thrice-weekly rides which ventured into neighboring *canton Vaud*. Little did I know that Francesco was going almost daily.
 
-Later that Spring, we starting dreaming of bigger, further, and more adventurous rides. We did an overnight 'bike to hike' camping trip, and then a full circuit of lake Geneva, *le tour du lac* `219km` .  At this point we planned a 2 day (really 2.5 day) Rhône Route `310km` trip *(trip report in the future)* with another willing accomplice, Johan, and then our first truly daring adventure, a trip home for him to Genova.
+![mont-tendre](../assets/img/2020-07-14-geneva-genova/mont-tendre.jpg)
+
+Later that Spring, we starting dreaming of bigger, further, and more adventurous rides. We did an overnight 'bike to hike' camping trip, and then a full circuit of lake Geneva, *tour du lac* `219km` .  At this point we planned a 2 day (really 2.5 day) Rhône Route `310km` trip *(trip report in the future)* with another willing accomplice, Johan, and then our first truly daring adventure, a trip home for him to Genova.
+
+![tour-du-lac](../assets/img/2020-07-14-geneva-genova/tour-du-lac.jpg)
+
+![rhone](../assets/img/2020-07-14-geneva-genova/rhone.jpg)
 
 At `524km` and `8007m` of elevation gain, this trip headed SSE from Switzerland through France and into Italy before ending on the Mediterranean. This trip passed through 12 cols (mountain passes), including the famous *Col Du Galibier* in France and *Col d'Agnel* on the French/Italian border. We took a break in a tiny village in which Francesco's family has accommodation to meet his family and our friends before continuing to his home town. 
 
-Let the trip begin! :bike:
+Let the trip begin!
+
+# Geneva to Genova
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752612&title=Geneva%20to%20Genova&metricUnits=true&sampleGraph=true&privacyCode=CtroDikKQJ35pKJF" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
@@ -53,6 +61,16 @@ Let the trip begin! :bike:
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752974&title=Day%201%3A%20Geneva%20-%20Col%20de%20Tami%C3%A8&metricUnits=true&sampleGraph=true&privacyCode=jhdM6pm8guZgonT1" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 ### Notes
+
+```
+- Johan, Fra and Will started in the early afternoon, due to packing and logistics with friends and family.
+  - Francesco's last day in Geneva!
+- Went to Annecy first, we were excited but the road and traffic condition wasn't great.
+- We arrived at 17:30, and took advantage of our first accomplishment with a tour of the beautiful city and a large dinner filled with beer and cheese.
+- Post-dinner ride along the gorgeous lake and cycling path with dramatic skies and full stomachs.
+- Planned on arriving before dark, but made it to the lesser-known Col de Tamiè `907m` at 22:30 and set up camp due to photo stops and bathroom emergencies.
+  - We assumed it was in the middle of nowhere, but was next to a touristic restaurant and livestock.
+```
 
 
 
@@ -165,6 +183,6 @@ Let the trip begin! :bike:
 - Nice ride for the first half on the cycling way next to the sea and then some traffic dodging 
 - With the end in sight, we raced through traffic to get to Francesco's home town and finish the journey (actually, only half of it
 
-## Conclusion
+# Conclusion
 
 Amazing ride!
