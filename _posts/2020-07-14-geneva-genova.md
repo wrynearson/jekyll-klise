@@ -122,6 +122,10 @@ Let the trip begin!
 - A dusk photo under the summit monument gave us an earned sense of accomplishment.
 - We hiked up another 20m to a flat patch of land and slept soundly.
 
+<video src="../assets/img/2020-07-14-geneva-genova/galibier1.mp4"></video>
+
+<video src="../assets/img/2020-07-14-geneva-genova/galibier2.mp4"></video>
+
 ## Day 4: Col d'Izoard - Col d'Agnel
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752994&title=Day%204%3A%20Col%20d%E2%80%99Izoard%20-%20Col%20d%E2%80%99Agnel&metricUnits=true&sampleGraph=true&privacyCode=ILoKgTjwORgvqHEG" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
