@@ -8,7 +8,7 @@ layout: post
 published: true
 ---
 
-![relive](../assets/img/2020-07-14-geneva-genova/relive.gif)
+<img src="../assets/img/2020-07-14-geneva-genova/relive.gif" alt="relive" style="zoom:25%;" />
 
 # Summary
 
@@ -41,8 +41,6 @@ Francesco, on the other hand, was more at home on the saddle. Having grown up in
 In March, after COVID-19 restrictions came into effect essentially freeing the roads of cars, plus a few fun but excruciating rides on my piece of crap city bike, I upgraded to a house-brand aluminum bike, and our training began. Or so we realized in hindsight, since really we just started riding frequently around the *Grand Genève* region. Our weekly rides of several dozen kilometers quickly turned into longer and thrice-weekly rides which ventured into neighboring *canton Vaud*. Little did I know that Francesco was going almost daily.
 
 ![mont-tendre](../assets/img/2020-07-14-geneva-genova/mont-tendre.jpg)
-
-[![mont-tendre](../assets/img/2020-07-14-geneva-genova/mont-tendre.jpg)(../assets/img/2020-07-14-geneva-genova/mont-tendre.jpg)
 
 Later that Spring, we starting dreaming of bigger, further, and more adventurous rides. We did an overnight 'bike to hike' camping trip, and then a full circuit of lake Geneva, *tour du lac* `219km` .  At this point we planned a 2 day (really 2.5 day) Rhône Route `310km` trip *(trip report in the future)* with another willing accomplice, Johan, and then our first truly daring adventure, a trip home for him to Genova.
 
@@ -78,7 +76,7 @@ Let the trip begin!
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752997&title=Day%202%3A%20Col%20de%20Tami%C3%A8%20-%20Col%20du%20T%C3%A9l%C3%A9graphie&metricUnits=true&sampleGraph=true&privacyCode=Sg3dGh2Jtt7j7YO6" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
-	### Notes
+### Notes
 
 ```
 - Francesco, Johan and Will enjoyed mellow descents and chirping birds in the forest.
@@ -100,6 +98,23 @@ Let the trip begin!
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752996&title=Day%203%3A%20Col%20du%20T%C3%A9l%C3%A9graphie%20-%20Col%20Du%20Galibier%20-%20Col%20d%E2%80%99Izoard&metricUnits=true&sampleGraph=true&privacyCode=dIdWZHUxS7TR0swm" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
+
+<video src="../assets/img/2020-07-14-geneva-genova/galibier1.mp4"></video>
+
+<!-- blank line -->
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="../assets/img/2020-07-14-geneva-genova/galibier1.mp4" type="video/mp4">
+  </video>
+</figure>
+<!-- blank line -->
+
+<video src="../assets/img/2020-07-14-geneva-genova/galibier2.mp4"></video>
+
+### Notes
+
+```
 - An unexplainably slow start to the day (finishing the pastries, shower, pack, 2nd breakfast in Valloire) meant the most famous climb was done in the heat of the day.
 - Our start at roughly 12:00 lead to us dripping with sweat, and filling our brains with doubt, almost instantly.
 - This discomfort quickly turned into awe as we gazed upon some of the most stunning mountain landscapes we had ever seen. Despite the heat, the perfect weather also put us in good spirits.
@@ -112,15 +127,15 @@ Let the trip begin!
   - Lugers were taking advantage of the good conditions and near-zero car traffic, so much so that they almost collided with us!
 - A dusk photo under the summit monument gave us an earned sense of accomplishment.
 - We hiked up another 20m to a flat patch of land and slept soundly.
-
-<video src="../assets/img/2020-07-14-geneva-genova/galibier1.mp4"></video>
-
-<video src="../assets/img/2020-07-14-geneva-genova/galibier2.mp4"></video>
+```
 
 ## Day 4: Col d'Izoard - Col d'Agnel
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752994&title=Day%204%3A%20Col%20d%E2%80%99Izoard%20-%20Col%20d%E2%80%99Agnel&metricUnits=true&sampleGraph=true&privacyCode=ILoKgTjwORgvqHEG" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
+### Notes
+
+```markdown
 - A sound evening and gorgeous morning lead to a fantastic (and cold) decent of roughly `1000m` into the gorgeous heart of the *Parc naturel régional du Queyras*.
 - We reached a fork in the road and decided to pause for a few minutes.
   - Just then, our next encounter would change the trip entirely.
@@ -137,11 +152,15 @@ Let the trip begin!
   - We savored the moment, the look back across our traversed terrain in France, and peered into our upcoming adventures in Italy.
 - The next 15km were pure joy - steep, straight descents into pure beauty. Despite the poor road conditions and reckless camper vans, we couldn't help ourselves from trying to set land speed records.
 - We ended our descent early in the day in Pontechianale and treated ourselves to as many Italian specialties as we could fit in our stomachs.
+```
 
 ## Day 5: Col d'Agnel - Castelvecchio di Rocca Barbena
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752995&title=Day%205%3A%20Col%20d%E2%80%99Agnel%20-%20Castelvecchio%20di%20Rocca%20Barbena&metricUnits=true&sampleGraph=true&privacyCode=M5A539q86ZX73LKE" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
+### Notes
+
+```markdown
 - Got one of our earliest start (at 8.40 :smile:) after breakfast at the bakery (+ sweets for the rest of the day in a paper bag) and packing
 - 50 km long unending relentless descent on with _suboptimal_ road conditions (flying mats) with a coffee break in a gas station in Sepeyre
 - Our next segment was disciplined by necessity, as we needed to make it to Castelvecchio by the evening. Steady pace at around 30 km/h in the _Pianura padana_ with infrequent water breaks while the temps were rising 
@@ -154,8 +173,9 @@ Let the trip begin!
 - Last 30 km went like a breeze, with Michele setting the pace like two stranded swimmers being towed back to the beach from the sea, drinking water from the spring in Calizzano 
 - Last but not least: _Colle dello Scravaion_. Pure joy and sense of victory. Francesco was screaming to let go of all the effort, fatigue and adrenaline. 
 - On our final descent, we looked at what was maybe the best view of the trip. Our family and friends waiting for us and a big dinner. 
+```
 
-### Break in Castelvecchio
+## Break in Castelvecchio
 
 *Friends, family, food, adventure, hikes, chilling, my birthday, and everything else that's good in life*. 
 
@@ -167,16 +187,24 @@ Let the trip begin!
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752993&title=%20Day%206%3A%20Castelvecchio%20di%20Rocca%20Barbena%20-%20Celle&metricUnits=true&sampleGraph=true&privacyCode=XqPoen1fbg2cArTp" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
+### Notes
+
+```
 - Our quick pit stop in Castelvecchio turned into a week of pure joy and recovery, both mentally and physically. Still, we managed to get in a 87 km ride with 2300+ meters of elevation for Will's birthday, together with Michele. 
 - We descended towards Celle passing through Balestrino and Capo Noli
 - We arrived in Celle for lunch and for a swim - chilling with Nonna 
+```
 
 ## Day 7: Celle - Genova
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752992&title=Day%207%3A%20Celle%20-%20Genova&metricUnits=true&sampleGraph=true&privacyCode=5tyziRvNuXyK3FVa" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
+### Notes
+
+```
 - Nice ride for the first half on the cycling way next to the sea and then some traffic dodging 
-- With the end in sight, we raced through traffic to get to Francesco's home town and finish the journey (actually, only half of it
+- With the end in sight, we raced through traffic to get to Francesco's home town and finish the journey (actually, only half of it)
+```
 
 # Conclusion
 
