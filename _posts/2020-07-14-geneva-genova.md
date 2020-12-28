@@ -5,7 +5,8 @@ tags: [Trip, Switzerland, France, Italy, Bike]
 description:
 image:
 layout: post
-published: true
+published: false
+
 ---
 
 <img src="../assets/img/2020-07-14-geneva-genova/relive.gif" alt="relive" style="zoom:25%;" />
@@ -98,9 +99,9 @@ Let the trip begin!
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752996&title=Day%203%3A%20Col%20du%20T%C3%A9l%C3%A9graphie%20-%20Col%20Du%20Galibier%20-%20Col%20d%E2%80%99Izoard&metricUnits=true&sampleGraph=true&privacyCode=dIdWZHUxS7TR0swm" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
-<video width="320" height="480" style="text-align:center;" controls src="../assets/img/2020-07-14-geneva-genova/galibier1.mp4"> Your browser does not support this video.</video>
+<video width="320" height="480" style="align:center;" controls src="../assets/img/2020-07-14-geneva-genova/galibier1.mp4"> Your browser does not support this video.</video>
 
-<video width="320" height="480" style="text-align:center;" controls src="../assets/img/2020-07-14-geneva-genova/galibier2.mp4"> Your browser does not support this video.</video>
+<video width="320" height="480" style="align:center;" controls src="../assets/img/2020-07-14-geneva-genova/galibier2.mp4"> Your browser does not support this video.</video>
 
 ### Notes
 
