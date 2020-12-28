@@ -42,6 +42,8 @@ In March, after COVID-19 restrictions came into effect essentially freeing the r
 
 ![mont-tendre](../assets/img/2020-07-14-geneva-genova/mont-tendre.jpg)
 
+[![mont-tendre](../assets/img/2020-07-14-geneva-genova/mont-tendre.jpg)(../assets/img/2020-07-14-geneva-genova/mont-tendre.jpg)
+
 Later that Spring, we starting dreaming of bigger, further, and more adventurous rides. We did an overnight 'bike to hike' camping trip, and then a full circuit of lake Geneva, *tour du lac* `219km` .  At this point we planned a 2 day (really 2.5 day) Rhône Route `310km` trip *(trip report in the future)* with another willing accomplice, Johan, and then our first truly daring adventure, a trip home for him to Genova.
 
 ![tour-du-lac](../assets/img/2020-07-14-geneva-genova/tour-du-lac.jpg)
@@ -72,26 +74,14 @@ Let the trip begin!
   - We assumed it was in the middle of nowhere, but was next to a touristic restaurant and livestock.
 ```
 
-
-
-- Johan, Fra and Will started in the early afternoon, due to packing and logistics with friends and family.
-  - Francesco's last day in Geneva!
-- Went to Annecy first, we were excited but the road and traffic condition wasn't great.
-- We arrived at 17:30, and took advantage of our first accomplishment with a tour of the beautiful city and a large dinner filled with beer and cheese.
-- Post-dinner ride along the gorgeous lake and cycling path with dramatic skies and full stomachs.
-- Planned on arriving before dark, but made it to the lesser-known Col de Tamiè `907m` at 22:30 and set up camp due to photo stops and bathroom emergencies.
-  - We assumed it was in the middle of nowhere, but was next to a touristic restaurant and livestock.
-
----
-
-
-
 ## Day 2: Col de Tamiè - Col du Télégraphie
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752997&title=Day%202%3A%20Col%20de%20Tami%C3%A8%20-%20Col%20du%20T%C3%A9l%C3%A9graphie&metricUnits=true&sampleGraph=true&privacyCode=Sg3dGh2Jtt7j7YO6" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
-- Francesco, Johan and Will enjoyed mellow descents and chirping birds in the forest.
+	### Notes
 
+```
+- Francesco, Johan and Will enjoyed mellow descents and chirping birds in the forest.
 - A sketchy and dirty bar for breakfast (with coffee).
 - We were contemplating master's thesis decisions, and Fra joined in on a Zoom call with his Matrix Bluetooth glasses.
 - Blasted Led Zeppelin to get up to a nice picnic spot.
@@ -104,6 +94,7 @@ Let the trip begin!
   - Upon seeing our starved gaze, she continued to empty her shop to fill our box of free goodies. We were beyond elated.
 - Our fuel up proved helpful - we reached the top of the call around 21:00, with plenty of light left.
 - Upon realizing our targeted sleeping spot (a what we assumed to be an abandoned castle) was in fact an active military base, we descended into Valloire and reluctantly paid 10 euros for a flat piece of grass and warm showers. We needed this for our following three days of insanity.
+```
 
 ## Day 3: Col du Télégraphie - Col Du Galibier - Col d'Izoard
 
