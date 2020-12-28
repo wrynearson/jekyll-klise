@@ -50,7 +50,7 @@ Let the trip begin! :bike:
 
 ## Day 1:  Geneva - Col de Tamiè
 
-<iframe height='405' width=100% frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3704674904/embed/7d6fa5d71da2240695db4b04c6522b3cfac8fcf4'></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=60752974&title=Day%201%3A%20Geneva%20-%20Col%20de%20Tami%C3%A8&metricUnits=true&sampleGraph=true&privacyCode=jhdM6pm8guZgonT1" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 ### Notes
 
@@ -70,7 +70,7 @@ Let the trip begin! :bike:
 
 ## Day 2: Col de Tamiè - Col du Télégraphie
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3709134267/embed/5978a60fbd806230318b914459da9de5df396ec6'></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=60752997&title=Day%202%3A%20Col%20de%20Tami%C3%A8%20-%20Col%20du%20T%C3%A9l%C3%A9graphie&metricUnits=true&sampleGraph=true&privacyCode=Sg3dGh2Jtt7j7YO6" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 - Francesco, Johan and Will enjoyed mellow descents and chirping birds in the forest.
 
@@ -89,7 +89,7 @@ Let the trip begin! :bike:
 
 ## Day 3: Col du Télégraphie - Col Du Galibier - Col d'Izoard
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3715364437/embed/92fbebff75f14cf593bac9e1dea89cb53bbbcfaf'></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=60752996&title=Day%203%3A%20Col%20du%20T%C3%A9l%C3%A9graphie%20-%20Col%20Du%20Galibier%20-%20Col%20d%E2%80%99Izoard&metricUnits=true&sampleGraph=true&privacyCode=dIdWZHUxS7TR0swm" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 - An unexplainably slow start to the day (finishing the pastries, shower, pack, 2nd breakfast in Valloire) meant the most famous climb was done in the heat of the day.
 - Our start at roughly 12:00 lead to us dripping with sweat, and filling our brains with doubt, almost instantly.
@@ -106,7 +106,7 @@ Let the trip begin! :bike:
 
 ## Day 4: Col d'Izoard - Col d'Agnel
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3717722758/embed/b01782768207552f4d06a6a6d99b59d98654193f'></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=60752994&title=Day%204%3A%20Col%20d%E2%80%99Izoard%20-%20Col%20d%E2%80%99Agnel&metricUnits=true&sampleGraph=true&privacyCode=ILoKgTjwORgvqHEG" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 - A sound evening and gorgeous morning lead to a fantastic (and cold) decent of roughly `1000m` into the gorgeous heart of the *Parc naturel régional du Queyras*.
 - We reached a fork in the road and decided to pause for a few minutes.
@@ -127,7 +127,7 @@ Let the trip begin! :bike:
 
 ## Day 5: Col d'Agnel - Castelvecchio di Rocca Barbena
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3725923683/embed/4a44953f47e12193605d5262478c97ac9d9773e6'></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=60752995&title=Day%205%3A%20Col%20d%E2%80%99Agnel%20-%20Castelvecchio%20di%20Rocca%20Barbena&metricUnits=true&sampleGraph=true&privacyCode=M5A539q86ZX73LKE" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 - Got one of our earliest start (at 8.40 :smile:) after breakfast at the bakery (+ sweets for the rest of the day in a paper bag) and packing
 - 50 km long unending relentless descent on with _suboptimal_ road conditions (flying mats) with a coffee break in a gas station in Sepeyre
@@ -144,15 +144,15 @@ Let the trip begin! :bike:
 
 ### Break in Castelvecchio
 
-*Friends, family, food, adventure, hikes, chilling, and everything else that's good in life*. 
+*Friends, family, food, adventure, hikes, chilling, my birthday, and everything else that's good in life*. 
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3740974511/embed/67ad7d011f9e77de2465e526d0d190969991a48a'></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=60753069&title=Colle%20di%20Caprauna%20Birthday%20Ride&metricUnits=true&sampleGraph=true&privacyCode=e0whdQI9TBrzr9lQ" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 ---
 
 ## Day 6: Castelvecchio di Rocca Barbena - Celle
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3755275045/embed/bf3c7d1d7ad0e0fac00fda17adb6a3a6af2987dc'></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=60752993&title=%20Day%206%3A%20Castelvecchio%20di%20Rocca%20Barbena%20-%20Celle&metricUnits=true&sampleGraph=true&privacyCode=XqPoen1fbg2cArTp" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 - Our quick pit stop in Castelvecchio turned into a week of pure joy and recovery, both mentally and physically. Still, we managed to get in a 87 km ride with 2300+ meters of elevation for Will's birthday, together with Michele. 
 - We descended towards Celle passing through Balestrino and Capo Noli
@@ -160,7 +160,7 @@ Let the trip begin! :bike:
 
 ## Day 7: Celle - Genova
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3769696926/embed/e0e068834a87787ae4877a6d71db0d9626585c1e'></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=60752992&title=Day%207%3A%20Celle%20-%20Genova&metricUnits=true&sampleGraph=true&privacyCode=5tyziRvNuXyK3FVa" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 - Nice ride for the first half on the cycling way next to the sea and then some traffic dodging 
 - With the end in sight, we raced through traffic to get to Francesco's home town and finish the journey (actually, only half of it
