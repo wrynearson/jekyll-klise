@@ -62,7 +62,7 @@ Let the trip begin!
 
 ### Notes
 
-```
+```markdown
 - Johan, Fra and Will started in the early afternoon, due to packing and logistics with friends and family.
   - Francesco's last day in Geneva!
 - Went to Annecy first, we were excited but the road and traffic condition wasn't great.
@@ -78,7 +78,7 @@ Let the trip begin!
 
 ### Notes
 
-```
+```markdown
 - Francesco, Johan and Will enjoyed mellow descents and chirping birds in the forest.
 - A sketchy and dirty bar for breakfast (with coffee).
 - We were contemplating master's thesis decisions, and Fra joined in on a Zoom call with his Matrix Bluetooth glasses.
@@ -98,23 +98,13 @@ Let the trip begin!
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752996&title=Day%203%3A%20Col%20du%20T%C3%A9l%C3%A9graphie%20-%20Col%20Du%20Galibier%20-%20Col%20d%E2%80%99Izoard&metricUnits=true&sampleGraph=true&privacyCode=dIdWZHUxS7TR0swm" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
+<video width="320" height="480" src="../assets/img/2020-07-14-geneva-genova/galibier1.mp4"></video>
 
-<video src="../assets/img/2020-07-14-geneva-genova/galibier1.mp4"></video>
-
-<!-- blank line -->
-
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="../assets/img/2020-07-14-geneva-genova/galibier1.mp4" type="video/mp4">
-  </video>
-</figure>
-<!-- blank line -->
-
-<video src="../assets/img/2020-07-14-geneva-genova/galibier2.mp4"></video>
+<video width="320" height="480" src="../assets/img/2020-07-14-geneva-genova/galibier2.mp4"></video>
 
 ### Notes
 
-```
+```markdown
 - An unexplainably slow start to the day (finishing the pastries, shower, pack, 2nd breakfast in Valloire) meant the most famous climb was done in the heat of the day.
 - Our start at roughly 12:00 lead to us dripping with sweat, and filling our brains with doubt, almost instantly.
 - This discomfort quickly turned into awe as we gazed upon some of the most stunning mountain landscapes we had ever seen. Despite the heat, the perfect weather also put us in good spirits.
@@ -189,7 +179,7 @@ Let the trip begin!
 
 ### Notes
 
-```
+```markdown
 - Our quick pit stop in Castelvecchio turned into a week of pure joy and recovery, both mentally and physically. Still, we managed to get in a 87 km ride with 2300+ meters of elevation for Will's birthday, together with Michele. 
 - We descended towards Celle passing through Balestrino and Capo Noli
 - We arrived in Celle for lunch and for a swim - chilling with Nonna 
@@ -201,7 +191,7 @@ Let the trip begin!
 
 ### Notes
 
-```
+```markdown
 - Nice ride for the first half on the cycling way next to the sea and then some traffic dodging 
 - With the end in sight, we raced through traffic to get to Francesco's home town and finish the journey (actually, only half of it)
 ```
