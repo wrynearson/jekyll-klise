@@ -5,7 +5,7 @@ tags: [Trip, Switzerland, France, Italy, Bike]
 description:
 image:
 layout: post
-published: false
+published: true
 ---
 
 ![relive](../assets/img/2020-07-14-geneva-genova/relive.gif)
@@ -42,13 +42,15 @@ In March, after COVID-19 restrictions came into effect essentially freeing the r
 
 Later that Spring, we starting dreaming of bigger, further, and more adventurous rides. We did an overnight 'bike to hike' camping trip, and then a full circuit of lake Geneva, *le tour du lac* `219km` .  At this point we planned a 2 day (really 2.5 day) Rhône Route `310km` trip *(trip report in the future)* with another willing accomplice, Johan, and then our first truly daring adventure, a trip home for him to Genova.
 
-At `524km` and `8007m` of elevation gain, this trip headed SSE from Switzerland through France and into Italy before ending on the Mediterranean. This trip passed through **XXX** cols (mountain passes), including the famous *Col Du Galibier* in France and *Col d'Agnel* on the French/Italian border. We took a break in a tiny village in which Francesco's family has accommodation to meet his family and our friends before continuing to his home town. 
+At `524km` and `8007m` of elevation gain, this trip headed SSE from Switzerland through France and into Italy before ending on the Mediterranean. This trip passed through 12 cols (mountain passes), including the famous *Col Du Galibier* in France and *Col d'Agnel* on the French/Italian border. We took a break in a tiny village in which Francesco's family has accommodation to meet his family and our friends before continuing to his home town. 
 
-Let the trip begin! :biking_man::biking_man::biking_man:
+Let the trip begin! :bike:
+
+<iframe src="https://ridewithgps.com/embeds?type=trip&id=60752612&title=Geneva%20to%20Genova&metricUnits=true&sampleGraph=true&privacyCode=CtroDikKQJ35pKJF" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
 ## Day 1:  Geneva - Col de Tamiè
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3704674904/embed/7d6fa5d71da2240695db4b04c6522b3cfac8fcf4'></iframe>
+<iframe height='405' width=100% frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3704674904/embed/7d6fa5d71da2240695db4b04c6522b3cfac8fcf4'></iframe>
 
 ### Notes
 
