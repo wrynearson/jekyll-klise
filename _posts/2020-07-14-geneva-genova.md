@@ -5,8 +5,7 @@ tags: [Trip, Switzerland, France, Italy, Bike]
 description:
 image:
 layout: post
-published: false
-
+published: true
 ---
 
 <img src="../assets/img/2020-07-14-geneva-genova/relive.gif" alt="relive" style="zoom:25%;" />
@@ -24,6 +23,10 @@ published: false
 - [Day 6: Castelvecchio di Rocca Barbena - Celle](https://wrynearson.github.io/geneva-genova/#day-6-castelvecchio-di-rocca-barbena---celle)
 - [Day 7: Celle - Genova](https://wrynearson.github.io/geneva-genova/#day-7-celle---genova)
 - [Conclusion](https://wrynearson.github.io/geneva-genova/#conclusion)
+
+.
+
+[TOC]
 
 ~relive video below~
 
@@ -61,6 +64,30 @@ Let the trip begin!
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752974&title=Day%201%3A%20Geneva%20-%20Col%20de%20Tami%C3%A8&metricUnits=true&sampleGraph=true&privacyCode=jhdM6pm8guZgonT1" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
+Excitement was in the air when we set off in the early afternoon. It was Francesco's last day in Geneva, so on top of the normally complex logistics of packing for a bike trip was the fact that he had to move out at the same time. With the house cleaned and adventure calling, we set off.
+
+![departure](../assets/img/2020-07-14-geneva-genova/01.jpg)
+
+We almost immediately crossed into France. With our sights set on Annecy for dinner and our bikes being in good shape (so far), we pushed through with barely any stops. The landscape was nice, but the constant traffic and mediocre bike lane detracted from the experience. Spirits were high, however, since we knew cycling nirvana was ahead.
+
+<img src="../assets/img/2020-07-14-geneva-genova/02.jpg" alt="Annecy" style="zoom:33%;" />
+
+Beautiful Annecy at sunset further improved our mood. Beautiful cheese and beers did so even more.
+
+<img src="../assets/img/2020-07-14-geneva-genova/03.jpg" alt="departure" style="zoom:33%;" />
+
+We felt far too accomplished for only cycling for a few hours, and thus spent too much time in the city. Once the beers and food wore off (which took a while), we enjoyed the wonderful landscape and separated cycling path along *lac d'Annecy* during dusk. 
+
+<img src="../assets/img/2020-07-14-geneva-genova/04.jpg" alt="departure" style="zoom:25%;" />
+
+<img src="../assets/img/2020-07-14-geneva-genova/05.jpg" alt="departure" style="zoom:25%;" />
+
+The calm, speedy route continued into mellow climbs with minimal traffic. Dusk turned to twilight, which turned into the black of night. We only arrived to the unknown *col de tamiè* at around 23:00.
+
+<img src="../assets/img/2020-07-14-geneva-genova/06.jpg" alt="col de tamie" title="a late arrival" style="zoom:25%;" />
+
+We pitched our tent in a grass field and promptly went to bed, dreaming on the days to come.
+
 ### Notes
 
 ```markdown
@@ -77,6 +104,22 @@ Let the trip begin!
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752997&title=Day%202%3A%20Col%20de%20Tami%C3%A8%20-%20Col%20du%20T%C3%A9l%C3%A9graphie&metricUnits=true&sampleGraph=true&privacyCode=Sg3dGh2Jtt7j7YO6" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
+<img src="../assets/img/2020-07-14-geneva-genova/07.jpg" alt="departure" title="our campground" style="zoom:25%;" />
+
+The wonderful thing about sleeping at the top of a *col* is that a chill descent is always the first part of your ride the next day. We enjoyed one though a forest with chirping birds, followed by a *café au lait* in a sketchy bar.
+
+The following morning ride was lovely but not memorable - not because of a lack of scenery, but because Francesco and I had some important decisions to make for our master's program. COVID-19 was making our planned move to Beijing in September uncertain, so we had some decisions to make. Our cyclist-friendly solution: utilize the remote working skills from the spring to call into a zoom meeting while cycling.
+
+Afterwards, and with thoughts of future life plans in the front of our heads, we climbed through forested roads and took breaks at opportunistic viewpoints. We continued into the quaint town of La Chambre and ate more good food and drank more good beer.
+
+Johan, our crazy athletic friend, kept our pace despite having a slower bike and fewer bike trips under his belt (albeit only one less than me). However, he decided shortly before leaving Geneva that he would only join us for the first two days. He, along with several of our friends, had planned a long-distance hike in the Dolomites just a few days after our planned arrival, so he didn't want to risk time or injury by competing the full bike trip with us. Thus, we dropped him off at Saint-Jean-de-Maurienne where he rode the train back to Geneva.
+
+Sad but determined, Francesco and I pushed on into the heart of this part of the alps, and the heart of our adventure. Before our first big *col* of the trip, *Col du Télégraphie* `1566m`, we filled up on sweets from a wonderful bakery and owner (see the notes below).
+
+<img src="../assets/img/2020-07-14-geneva-genova/08.jpg" alt="telegraphie" style="zoom:33%;" />
+
+The climb was steep and tough, being our first main one. The thought of unknown landscapes drove us up this *col*, and many others - we reached the top around 21:00. Since we couldn't find a descent place to wild camp, we splurged on a campground with a shower at the bottom of our final descent of the day, and the start of the most famous climb of our trip.
+
 ### Notes
 
 ```markdown
@@ -88,7 +131,7 @@ Let the trip begin!
 - Dropped off Johan at Saint-Jean-de-Maurienne
 - Before our final planned ascension to Col du Télégraphie, Fra realized he needed to pee (a frequent realization on bike trips)
   - He went into a modern bakery *Le Frui'Thé*.
-  - Once seeing the nice selection, we decided to quickly fuel up fuel :fuelpump:
+  - Once seeing the nice selection, we decided to quickly fuel up
   - After talking briefly about our trip, the owner offered us a few extras - a few pastries and raspberry tarts.
   - Upon seeing our starved gaze, she continued to empty her shop to fill our box of free goodies. We were beyond elated.
 - Our fuel up proved helpful - we reached the top of the call around 21:00, with plenty of light left.
@@ -99,9 +142,29 @@ Let the trip begin!
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752996&title=Day%203%3A%20Col%20du%20T%C3%A9l%C3%A9graphie%20-%20Col%20Du%20Galibier%20-%20Col%20d%E2%80%99Izoard&metricUnits=true&sampleGraph=true&privacyCode=dIdWZHUxS7TR0swm" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
+We took our time getting up, showering and packing. This was a huge mistake. The beautiful sunny morning turned into a scorching mid-morning. By then, we pushed onwards up the famed *Col Du Galibier* `2642m`, an unbelievably beautiful but brutal climb, made worse by our slow-moving decision.
+
+Our start at roughly 12:00 lead to us dripping with sweat, and filling our brains with doubt, almost instantly. The main problem is that there is essentially zero shade on the entire climb. We took short breaks on the shady side of immovable objects, but this too was limited due to the angle of the sun directly above us.
+
+<img src="../assets/img/2020-07-14-geneva-genova/09.jpg" alt="galibier" style="zoom:33%;" />
+
+The scenery, once again, propelled us upwards.
+
 <video width="320" height="480" style="align:center;" controls src="../assets/img/2020-07-14-geneva-genova/galibier1.mp4"> Your browser does not support this video.</video>
 
 <video width="320" height="480" style="align:center;" controls src="../assets/img/2020-07-14-geneva-genova/galibier2.mp4"> Your browser does not support this video.</video>
+
+![](../assets/img/2020-07-14-geneva-genova/10.jpg)
+
+We stopped quickly roughly two thirds of the way up to refill our bottles and our inspiration from the scenery which surrounded us.
+
+The closer we got to the top, the more it pulled us uphill. With perfect conditions, several cameramen, and friendly competition, we reached the *col*.
+
+![galibier](../assets/img/2020-07-14-geneva-genova/11.jpg)
+
+This was the first point in the trip where we felt truly accomplished. We stayed for a while to just take it all in. Then, satisfied, we got what we had earned - an amazing descent.
+
+Most people would stop after such a *col* and such an achievement. However, we did not. While I'm very proud of the trips I've done, Francesco deserves all of the credit for planning such crazy, but achievable, adventures. Thus, we marched on for our second major climb of the day.
 
 ### Notes
 
