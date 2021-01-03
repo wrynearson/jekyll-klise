@@ -1,7 +1,7 @@
 # Site settings
 title: Will Rynearson
 description: >-
-  SDGs and photography
+  SDGs, Nature and Photography
 lang: en-US
 timezone: Europe/Zurich
 # image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -13,6 +13,7 @@ author:
   name: Will Rynearson
   bio: >-
     Sustainable Development Goals 🌍<br />
+    Nature 🗻🚵‍♂️⛷🏃‍♂️
     I like <a href="http://wrynearson.github.io/portfolio/"> photography 📸</a>
   username: wrynearson
   email: wrynearson@gmail.com
