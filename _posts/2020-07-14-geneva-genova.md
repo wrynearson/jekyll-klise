@@ -5,7 +5,7 @@ tags: [Trip, Switzerland, France, Italy, Bike]
 description:
 image:
 layout: post
-published: true
+published: false
 ---
 
 <img src="../assets/img/2020-07-14-geneva-genova/relive.gif" alt="relive" style="zoom:25%;" />
@@ -24,9 +24,9 @@ published: true
 - [Day 7: Celle - Genova](https://wrynearson.github.io/geneva-genova/#day-7-celle---genova)
 - [Conclusion](https://wrynearson.github.io/geneva-genova/#conclusion)
 
-.
 
-[TOC]
+
+
 
 ~relive video below~
 
