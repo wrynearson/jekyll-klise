@@ -5,7 +5,7 @@ tags: [Trip, Switzerland, France, Italy, Bike]
 description:
 image:
 layout: post
-published: false
+published: true
 ---
 
 <img src="../assets/img/2020-07-14-geneva-genova/relive.gif" alt="relive" style="zoom:25%;" />
@@ -26,13 +26,7 @@ published: false
 
 
 
-
-
-~relive video below~
-
 <div class="embedly-responsive" style="position: relative;padding-bottom: 78.2227%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="https://cdn.embedly.com/widgets/media.html?src=https://www.relive.cc/view/vrqD4ryrmLq/widget?r=embed-site&url=https://www.relive.cc/view/vrqD4ryrmLq?r=embed-site&image=https://www.relive.cc/view/vrqD4ryrmLq/png?x-ref=embed-site&key=f1631a41cb254ca5b035dc5747a5bd75&type=text/html&schema=relive" width="1024" height="801" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
-
-~relive video above~
 
 # Preface
 
@@ -162,9 +156,29 @@ The closer we got to the top, the more it pulled us uphill. With perfect conditi
 
 ![galibier](../assets/img/2020-07-14-geneva-genova/11.jpg)
 
+![galibier](../assets/img/2020-07-14-geneva-genova/12.jpg)
+
 This was the first point in the trip where we felt truly accomplished. We stayed for a while to just take it all in. Then, satisfied, we got what we had earned - an amazing descent.
 
-Most people would stop after such a *col* and such an achievement. However, we did not. While I'm very proud of the trips I've done, Francesco deserves all of the credit for planning such crazy, but achievable, adventures. Thus, we marched on for our second major climb of the day.
+<img src="../assets/img/2020-07-14-geneva-genova/13.jpg" alt="galibier-descent" style="zoom:33%;" />
+
+Most people would stop after such a *col* and such an achievement. However, we did not. While I'm very proud of my previous adventures, Francesco deserves all of the credit for planning such crazy, but achievable, adventures. Thus, we marched on for our second major climb of the day - *Col d'Izoard* `2360m`, almost as high as where we were when we realized we'd have to summit twice on the same day.
+
+After an incredible and long descent on smooth asphalt, we rested in a park in Briançon and had a late lunch there, gear, clothes and food spread out on the grass. The feeling was fantastic, just laying there with good French ingredients on a warm summer afternoon. But as with life, and especially with bike adventures, no emotion lasts forever. Around 7pm, we set off for our second climb of the day.
+
+<img src="../assets/img/2020-07-14-geneva-genova/14.jpg" alt="break" style="zoom:50%;" />
+
+This trip, in all its splendidness, was also painful at times. I sometimes have neck pain, from what I assume was an injury playing American Football in high school. The long, locked posture of clutching handlebars and supporting body weight with shoulders proved to be a disaster for my neck, which was really painful on the descents and later into the day. The climb was excruciating at first, but some stretches and breaks proved a respite from the pain, at least long enough to make some progress upwards.
+
+The pain slowly morphed into pleasure as the sun began to set behind the mountains. While Galibier was epic, it was also busy. The climb up to Izoard was almost deserted. The pine trees, painted sky and perfect asphalt made it an unexpected gem of our trip, and reminded me of the Rockies in North America, where I did my undergraduate studies.
+
+![d'izoard](../assets/img/2020-07-14-geneva-genova/15.jpg)
+
+![d'izoard](../assets/img/2020-07-14-geneva-genova/16.jpg)
+
+I'm sure we had some fatigue climbing up, and probably stressed about something at the time, but all of these negative emotions fade with time. What matters is the climb was beautiful, and that we were on an adventure of a lifetime. Oh, and that we made it to the top and camped nearby.
+
+<img src="../assets/img/2020-07-14-geneva-genova/17.jpg" alt="d'izoard" style="zoom:33%;" />
 
 ### Notes
 
@@ -172,7 +186,7 @@ Most people would stop after such a *col* and such an achievement. However, we d
 - An unexplainably slow start to the day (finishing the pastries, shower, pack, 2nd breakfast in Valloire) meant the most famous climb was done in the heat of the day.
 - Our start at roughly 12:00 lead to us dripping with sweat, and filling our brains with doubt, almost instantly.
 - This discomfort quickly turned into awe as we gazed upon some of the most stunning mountain landscapes we had ever seen. Despite the heat, the perfect weather also put us in good spirits.
-- A steady pace, infrequent photo breaks, and friendly competition brought us to the top of Col Du Galibier ```2642m```. We enjoyed ourselves on the top, and were overwhelmed by the beauty of the place. 
+- A steady pace, infrequent photo breaks, and friendly competition brought us to the top of Col Du Galibier `2642m`. We enjoyed ourselves on the top, and were overwhelmed by the beauty of the place. 
 - We decided to rest and wait for the mid-afternoon heat to pass, so we found a park in Briançon and relaxed for a few hours. 
   - We made ourselves so comfortable that one man felt obliged to tell us that camping wasn't allowed in this city park.
 - At around 19:00 (with plenty of light), we commenced our second intense climb of the day - Galibier wasn't enough!
@@ -186,6 +200,10 @@ Most people would stop after such a *col* and such an achievement. However, we d
 ## Day 4: Col d'Izoard - Col d'Agnel
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752994&title=Day%204%3A%20Col%20d%E2%80%99Izoard%20-%20Col%20d%E2%80%99Agnel&metricUnits=true&sampleGraph=true&privacyCode=ILoKgTjwORgvqHEG" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
+![d'izoard](../assets/img/2020-07-14-geneva-genova/18.jpg)
+
+
 
 ### Notes
 
