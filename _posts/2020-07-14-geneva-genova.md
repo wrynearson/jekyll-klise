@@ -6,6 +6,7 @@ description:
 image:
 layout: post
 published: true
+hidden: true
 ---
 
 <img src="../assets/img/2020-07-14-geneva-genova/relive.gif" alt="relive" style="zoom:25%;" />
@@ -34,7 +35,7 @@ Any story written in 2020 must be prefaced with COVID-19. Our story is no except
 
 Francesco and I had met through our shared masters program in Geneva in the autumn of 2019, and instantly began thinking of outdoor excursions to do in our vicinity. While we both enjoy hiking and skiing, Francesco's main outdoor calling is cycling. I've always been comfortable on a bike, and had completed an ill-prepared but thoroughly enjoyable monthlong trip across the North Island of New Zealand in 2014, but had never considered myself a cyclist. Heck, the closest thing I had ever owned to a road bike was a single speed / fixie Schwinn with drop handlebars during my undergraduate studies.
 
-Francesco, on the other hand, was more at home on the saddle. Having grown up in Genova, Liguria :it: , he had gone on several trips with his cycling uncle during his formative years, and had some time riding on carbon fiber under his belt. Being in Switzerland after all, famously home to not only beautiful mountain passes and lush landscapes, but also perfectly paved roads, cycling was definitely on his list of things to do there.
+Francesco, on the other hand, was more at home on the saddle. Having grown up in Genova, Liguria, he had gone on several trips with his cycling uncle during his formative years, and had some time riding on carbon fiber under his belt. Being in Switzerland after all, famously home to not only beautiful mountain passes and lush landscapes, but also perfectly paved roads, cycling was definitely on his list of things to do there.
 
 In March, after COVID-19 restrictions came into effect essentially freeing the roads of cars, plus a few fun but excruciating rides on my piece of crap city bike, I upgraded to a house-brand aluminum bike, and our training began. Or so we realized in hindsight, since really we just started riding frequently around the *Grand Genève* region. Our weekly rides of several dozen kilometers quickly turned into longer and thrice-weekly rides which ventured into neighboring *canton Vaud*. Little did I know that Francesco was going almost daily.
 
@@ -64,7 +65,7 @@ Excitement was in the air when we set off in the early afternoon. It was Frances
 
 We almost immediately crossed into France. With our sights set on Annecy for dinner and our bikes being in good shape (so far), we pushed through with barely any stops. The landscape was nice, but the constant traffic and mediocre bike lane detracted from the experience. Spirits were high, however, since we knew cycling nirvana was ahead.
 
-<img src="../assets/img/2020-07-14-geneva-genova/02.jpg" alt="Annecy" style="zoom:33%;" />
+<img src="../assets/img/2020-07-14-geneva-genova/02.jpg" class="align-center" alt="Annecy" style="zoom:33%;" />
 
 Beautiful Annecy at sunset further improved our mood. Beautiful cheese and beers did so even more.
 
@@ -72,13 +73,13 @@ Beautiful Annecy at sunset further improved our mood. Beautiful cheese and beers
 
 We felt far too accomplished for only cycling for a few hours, and thus spent too much time in the city. Once the beers and food wore off (which took a while), we enjoyed the wonderful landscape and separated cycling path along *lac d'Annecy* during dusk. 
 
-<img src="../assets/img/2020-07-14-geneva-genova/04.jpg" alt="departure" style="zoom:25%;" />
+<img src="../assets/img/2020-07-14-geneva-genova/04.jpg" class="align-center" alt="departure" style="zoom:25%;" />
 
-<img src="../assets/img/2020-07-14-geneva-genova/05.jpg" alt="departure" style="zoom:25%;" />
+<img src="../assets/img/2020-07-14-geneva-genova/05.jpg" class="align-center" alt="departure" style="zoom:25%;" />
 
 The calm, speedy route continued into mellow climbs with minimal traffic. Dusk turned to twilight, which turned into the black of night. We only arrived to the unknown *col de tamiè* at around 23:00.
 
-<img src="../assets/img/2020-07-14-geneva-genova/06.jpg" alt="col de tamie" title="a late arrival" style="zoom:25%;" />
+<img src="../assets/img/2020-07-14-geneva-genova/06.jpg" class="align-center" alt="col de tamie" title="a late arrival" style="zoom:25%;" />
 
 We pitched our tent in a grass field and promptly went to bed, dreaming on the days to come.
 
