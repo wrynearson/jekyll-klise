@@ -5,8 +5,7 @@ tags: [Trip, Switzerland, France, Italy, Bike]
 description:
 image:
 layout: post
-published: true
-hidden: true
+published: false
 ---
 
 <img src="../assets/img/2020-07-14-geneva-genova/relive.gif" alt="relive" style="zoom:25%;" />
@@ -42,8 +41,6 @@ In March, after COVID-19 restrictions came into effect essentially freeing the r
 ![mont-tendre](../assets/img/2020-07-14-geneva-genova/mont-tendre.jpg)
 
 Later that Spring, we starting dreaming of bigger, further, and more adventurous rides. We did an overnight 'bike to hike' camping trip, and then a full circuit of lake Geneva, *tour du lac* `219km` .  At this point we planned a 2 day (really 2.5 day) Rhône Route `310km` trip *(trip report in the future)* with another willing accomplice, Johan, and then our first truly daring adventure, a trip home for him to Genova.
-
-<div class="alert alert-block alert-info"><b>Tip:</b> Testing alerts.</div>
 
 ![tour-du-lac](../assets/img/2020-07-14-geneva-genova/tour-du-lac.jpg)
 
