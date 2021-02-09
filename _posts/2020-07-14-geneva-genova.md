@@ -7,10 +7,12 @@ image:
 layout: post
 published: false
 ---
+# Geneva to Genova
 
 <img src="../assets/img/2020-07-14-geneva-genova/relive.gif" alt="relive" style="zoom:25%;" />
+![relive](../assets/img/2020-07-14-geneva-genova/relive.gif)
 
-# Summary
+## Summary
 
 - [Intro](https://wrynearson.github.io/geneva-genova/#geneva-to-genova)
 - [Preface](https://wrynearson.github.io/geneva-genova/#preface)
@@ -26,7 +28,7 @@ published: false
 
 <div class="embedly-responsive" style="position: relative;padding-bottom: 78.2227%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="https://cdn.embedly.com/widgets/media.html?src=https://www.relive.cc/view/vrqD4ryrmLq/widget?r=embed-site&url=https://www.relive.cc/view/vrqD4ryrmLq?r=embed-site&image=https://www.relive.cc/view/vrqD4ryrmLq/png?x-ref=embed-site&key=f1631a41cb254ca5b035dc5747a5bd75&type=text/html&schema=relive" width="1024" height="801" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
 
-# Preface
+## Preface
 
 Any story written in 2020 must be prefaced with COVID-19. Our story is no exception. 
 
@@ -48,7 +50,7 @@ At `524km` and `8007m` of elevation gain, this trip headed SSE from Switzerland 
 
 Let the trip begin!
 
-# Geneva to Genova
+## Geneva to Genova
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752612&title=Geneva%20to%20Genova&metricUnits=true&sampleGraph=true&privacyCode=CtroDikKQJ35pKJF" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
@@ -160,7 +162,7 @@ This was the first point in the trip where we felt truly accomplished. We stayed
 
 <img src="../assets/img/2020-07-14-geneva-genova/13.jpg" alt="galibier-descent" style="zoom:33%;" />
 
-Most people would stop after such a *col* and such an achievement. However, we did not. While I'm very proud of my previous adventures, Francesco deserves all of the credit for planning such crazy, but achievable, adventures. Thus, we marched on for our second major climb of the day - *Col d'Izoard* `2360m`, almost as high as where we were when we realized we'd have to summit twice on the same day.
+Most people would stop after such a *col* and such an achievement. However, we did not. While I'm very proud of my previous adventures, Francesco deserves all of the credit for planning such crazy, but achievable ones. Thus, we marched on for our second major climb of the day - *Col d'Izoard* `2360m`, almost as high as where we were when we realized we'd have to summit twice on the same day.
 
 After an incredible and long descent on smooth asphalt, we rested in a park in Briançon and had a late lunch there, gear, clothes and food spread out on the grass. The feeling was fantastic, just laying there with good French ingredients on a warm summer afternoon. But as with life, and especially with bike adventures, no emotion lasts forever. Around 7pm, we set off for our second climb of the day.
 
@@ -201,7 +203,31 @@ I'm sure we had some fatigue climbing up, and probably stressed about something 
 
 ![d'izoard](../assets/img/2020-07-14-geneva-genova/18.jpg)
 
+The gorgeously calm morning gave us no sense of the excruciating climb in store for us later. We were up early, and left early, since our campground was exactly in the middle of a touristic viewpoint. The early sun, followed by the nearly `1000m` of frigid descent into *Parc naturel régional du Queyras*, woke us up.
 
+At the bottom of this descent was a metaphor in real life - a T intersection, where we had to choose to turn left or right. We decided to pause for a few minutes to check our maps. Like in life, sometimes the most influential decisions barely register on in our consciousness. We casually contemplated either turning right, as originally planned, and climbing two sizable cols before crossing into Italy. As we were seeing where turning left would take us, an older man came from the right and towards the left. He told us about the beauty and terror that was to our left and is Col d'Agnel `2744m`, a full 1400m the fork. We pretended to discuss our options, but we both already knew that we'd be turning left.
+
+After lunch in a quaint village at the base of the climb, we spent the next 3 hours grinding our chains and pedals to get to what felt like the top of the world. This was an absolute beast of a col, but one of rugged, almost otherworldly beauty. Two 700m climbs of 7-13% gradient were split almost equally with a reprieve of a few kilometers at a 0-2% incline. Quaint villages and grasslands below gave way to rugged peaks and narrow roads up above. What stayed constant was the unrelenting sun turning us into lobsters, as any sunscreen was quickly sweated away. 
+
+![d'agnel](../assets/img/2020-07-14-geneva-genova/19.jpg)
+
+![d'agnel](../assets/img/2020-07-14-geneva-genova/20.jpg)
+
+![d'izoard](../assets/img/2020-07-14-geneva-genova/21.jpg)
+
+![d'izoard](../assets/img/2020-07-14-geneva-genova/22.jpg)
+
+The final push to the top was a true test of mental grit and determination. Several times, I thought that the unending road was insurmountable. There's a reason this section of the report is short - my brain didn't think about anything more verbose than getting to the top.
+
+Somehow, we made it.
+
+![d'izoard](../assets/img/2020-07-14-geneva-genova/24.jpg)
+
+The emotions we felt, combined with the views, were simply indescribable. Such jagged mountains and vibrant vegetation shouldn't be possible to coexist! 
+
+![d'izoard](../assets/img/2020-07-14-geneva-genova/25.jpg)
+
+We savored the moment, the look back across our traversed terrain in France, and peered into our upcoming adventures in Italy.
 
 ### Notes
 
@@ -276,6 +302,6 @@ I'm sure we had some fatigue climbing up, and probably stressed about something 
 - With the end in sight, we raced through traffic to get to Francesco's home town and finish the journey (actually, only half of it)
 ```
 
-# Conclusion
+## Conclusion
 
 Amazing ride!
