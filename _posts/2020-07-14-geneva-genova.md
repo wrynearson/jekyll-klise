@@ -1,5 +1,8 @@
 ---
 title: Geneva to Genova
+author:
+    - Will Rynearson
+    - Francesco Cambi
 date: 2021-02-12
 tags: [Trip, Switzerland, France, Italy, Bike]
 description: 570km of cycling perfection from Geneva to Genova through France.
@@ -11,29 +14,18 @@ published: true
 
 <img src="../assets/img/2020-07-14-geneva-genova/relive.gif" alt="relive" style="zoom:25%;" />
 
-## Summary
-
-[Intro](https://wrynearson.github.io/geneva-genova/#geneva-to-genova)
-
-[Preface](https://wrynearson.github.io/geneva-genova/#preface)
-
-[Day 1: Geneva - Col de Tamiè](https://wrynearson.github.io/geneva-genova/#day-1--geneva---col-de-tami%C3%A8)
-
-[Day 2: Col de Tamiè - Col du Télégraphie](https://wrynearson.github.io/geneva-genova/#day-2-col-de-tami%C3%A8---col-du-t%C3%A9l%C3%A9graphie)
-
-[Day 3: Col du Télégraphie - Col Du Galibier - Col d’Izoard](https://wrynearson.github.io/geneva-genova/#day-3-col-du-t%C3%A9l%C3%A9graphie---col-du-galibier---col-dizoard)
-
-[Day 4: Col d’Izoard - Col d’Agnel](https://wrynearson.github.io/geneva-genova/#day-4-col-dizoard---col-dagnel)
-
-[Day 5: Col d’Agnel - Castelvecchio di Rocca Barbena](https://wrynearson.github.io/geneva-genova/#day-5-col-dagnel---castelvecchio-di-rocca-barbena)
-
-[*Break in Castelvecchio*](https://wrynearson.github.io/geneva-genova/#break-in-castelvecchio)
-
-[Day 6: Castelvecchio di Rocca Barbena - Celle](https://wrynearson.github.io/geneva-genova/#day-6-castelvecchio-di-rocca-barbena---celle)
-
-[Day 7: Celle - Genova](https://wrynearson.github.io/geneva-genova/#day-7-celle---genova)
-
-[Conclusion](https://wrynearson.github.io/geneva-genova/#conclusion)
+| Table of Contents                                            |
+| :----------------------------------------------------------- |
+| [Preface](https://wrynearson.github.io/geneva-genova/#preface) |
+| [Day 1: Geneva - Col de Tamiè](https://wrynearson.github.io/geneva-genova/#day-1--geneva---col-de-tami%C3%A8) |
+| [Day 2: Col de Tamiè - Col du Télégraphie](https://wrynearson.github.io/geneva-genova/#day-2-col-de-tami%C3%A8---col-du-t%C3%A9l%C3%A9graphie) |
+| [Day 3: Col du Télégraphie - Col Du Galibier - Col d’Izoard](https://wrynearson.github.io/geneva-genova/#day-3-col-du-t%C3%A9l%C3%A9graphie---col-du-galibier---col-dizoard) |
+| [Day 4: Col d’Izoard - Col d’Agnel](https://wrynearson.github.io/geneva-genova/#day-4-col-dizoard---col-dagnel) |
+| [Day 5: Col d’Agnel - Castelvecchio di Rocca Barbena](https://wrynearson.github.io/geneva-genova/#day-5-col-dagnel---castelvecchio-di-rocca-barbena) |
+| [*Break in Castelvecchio*](https://wrynearson.github.io/geneva-genova/#break-in-castelvecchio) |
+| [Day 6: Castelvecchio di Rocca Barbena - Celle](https://wrynearson.github.io/geneva-genova/#day-6-castelvecchio-di-rocca-barbena---celle) |
+| [Day 7: Celle - Genova](https://wrynearson.github.io/geneva-genova/#day-7-celle---genova) |
+| [Conclusion](https://wrynearson.github.io/geneva-genova/#conclusion) |
 
 <div class="embedly-responsive" style="position: relative;padding-bottom: 78.2227%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="https://cdn.embedly.com/widgets/media.html?src=https://www.relive.cc/view/vrqD4ryrmLq/widget?r=embed-site&url=https://www.relive.cc/view/vrqD4ryrmLq?r=embed-site&image=https://www.relive.cc/view/vrqD4ryrmLq/png?x-ref=embed-site&key=f1631a41cb254ca5b035dc5747a5bd75&type=text/html&schema=relive" width="1024" height="801" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
 
@@ -41,15 +33,15 @@ published: true
 
 Any story written in 2020 must be prefaced with COVID-19. Our story is no exception. 
 
-Francesco and I had met through our shared masters program in Geneva in the autumn of 2019, and instantly began thinking of outdoor excursions to do in our vicinity. While we both enjoy hiking and skiing, Francesco's main outdoor calling is cycling. I've always been comfortable on a bike, and had completed an ill-prepared but thoroughly enjoyable monthlong trip across the North Island of New Zealand in 2014, but had never considered myself a cyclist. Heck, the closest thing I had ever owned to a road bike was a single speed / fixie Schwinn with drop handlebars during my undergraduate studies.
+Francesco and I had met through our shared masters program in Geneva in the autumn of 2019, and instantly began thinking of outdoor excursions to do in our vicinity. While we both enjoy hiking and skiing, Francesco's main outdoor calling is cycling. I've always been comfortable on a bike, and had completed an ill-prepared but thoroughly enjoyable month-long trip across the North Island of New Zealand in 2014, but had never considered myself a cyclist. Heck, the closest thing I had ever owned to a road bike was a single speed / fixie Schwinn with drop handlebars during my undergraduate studies.
 
-Francesco, on the other hand, was more at home on the saddle. Having grown up in Genova, Liguria, he had gone on several trips with his cycling uncle during his formative years, and had some time riding on carbon fiber under his belt. Being in Switzerland after all, famously home to not only beautiful mountain passes and lush landscapes, but also perfectly paved roads, cycling was definitely on his list of things to do there.
+Francesco, on the other hand, was more at home on the saddle. Having grown up in Genova, he had gone on several trips with his cycling uncle during his formative years, and had some time riding on carbon fiber under his belt. Being in Switzerland after all, famously home to not only beautiful mountain passes and lush landscapes, but also perfectly paved roads, cycling was definitely on his list of things to do there.
 
 In March, after COVID-19 restrictions came into effect essentially freeing the roads of cars, plus a few fun but excruciating rides on my piece of crap city bike, I upgraded to a house-brand aluminum bike, and our training began. Or so we realized in hindsight, since really we just started riding frequently around the *Grand Genève* region. Our weekly rides of several dozen kilometers quickly turned into longer and thrice-weekly rides which ventured into neighboring *canton Vaud*. Little did I know that Francesco was going almost daily.
 
 ![mont-tendre](../assets/img/2020-07-14-geneva-genova/mont-tendre.jpg)
 
-Later that Spring, we starting dreaming of bigger, further, and more adventurous rides. We did an overnight 'bike to hike' camping trip, and then a full circuit of lake Geneva, *tour du lac* `219km` .  At this point we planned a 2 day (really 2.5 day) Rhône Route `310km` trip *(trip report in the future)* with another willing accomplice, Johan, and then our first truly daring adventure, a trip home for him to Genova.
+Later that Spring, we starting dreaming of bigger, further, and more adventurous rides. We did an overnight 'bike to hike' camping trip, and then a full circuit of lake Geneva, *tour du lac* `219km` .  At this point we planned a 2 day (really, 2.5 day) Rhône Route `310km` trip *(trip report in the future)* with another willing accomplice, Johan, and then our first truly daring adventure, a trip home for him to Genova.
 
 ![tour-du-lac](../assets/img/2020-07-14-geneva-genova/tour-du-lac.jpg)
 
@@ -113,9 +105,9 @@ The wonderful thing about sleeping at the top of a *col* is that a chill descent
 
 The following morning ride was lovely but not memorable - not because of a lack of scenery, but because Francesco and I had some important decisions to make for our master's program. COVID-19 was making our planned move to Beijing in September uncertain, so we had some decisions to make. Our cyclist-friendly solution: utilize the remote working skills from the spring to call into a zoom meeting while cycling.
 
-Afterwards, and with thoughts of future life plans in the front of our heads, we climbed through forested roads and took breaks at opportunistic viewpoints. We continued into the quaint town of La Chambre and ate more good food and drank more good beer.
+Afterwards, and with thoughts of future life plans in the front of our heads, we climbed through forested roads and took breaks at opportunistic viewpoints. We continued into the quaint town of *La Chambre* and ate more good food and drank more good beer.
 
-Johan, our crazy athletic friend, kept our pace despite having a slower bike and fewer bike trips under his belt (albeit only one less than me). However, he decided shortly before leaving Geneva that he would only join us for the first two days. He, along with several of our friends, had planned a long-distance hike in the Dolomites just a few days after our planned arrival, so he didn't want to risk time or injury by competing the full bike trip with us. Thus, we dropped him off at Saint-Jean-de-Maurienne where he rode the train back to Geneva.
+Johan, our crazy athletic friend, kept our pace despite having a slower bike and fewer bike trips under his belt (albeit only one less than me). However, he decided shortly before leaving Geneva that he would only join us for the first two days. He, along with several of our friends, had planned a long-distance hike in the Dolomites just a few days after our planned arrival, so he didn't want to risk time or injury by competing the full bike trip with us. Thus, we dropped him off at *Saint-Jean-de-Maurienne* where he rode the train back to Geneva.
 
 Sad but determined, Francesco and I pushed on into the heart of this part of the alps, and the heart of our adventure. Before our first big *col* of the trip, *Col du Télégraphie* `1566m`, we filled up on sweets from a wonderful bakery and owner (see the notes below).
 
@@ -173,13 +165,13 @@ This was the first point in the trip where we felt truly accomplished. We stayed
 
 Most people would stop after such a *col* and such an achievement. However, we did not. While I'm very proud of my previous adventures, Francesco deserves all of the credit for planning such crazy, but achievable ones. Thus, we marched on for our second major climb of the day - *Col d'Izoard* `2360m`, almost as high as where we were when we realized we'd have to summit twice on the same day.
 
-After an incredible and long descent on smooth asphalt, we rested in a park in Briançon and had a late lunch there, gear, clothes and food spread out on the grass. The feeling was fantastic, just laying there with good French ingredients on a warm summer afternoon. But as with life, and especially with bike adventures, no emotion lasts forever. Around 7pm, we set off for our second climb of the day.
+After an incredible and long descent on smooth asphalt, we rested in a park in *Briançon* and had a late lunch there, gear, clothes and food spread out on the grass. The feeling was fantastic, just laying there with good French ingredients on a warm summer afternoon. But as with life, and especially with bike adventures, no emotion lasts forever. Around 19:00, we set off for our second climb of the day.
 
 <img src="../assets/img/2020-07-14-geneva-genova/14.jpg" alt="break" style="zoom:50%;" />
 
 This trip, in all its splendidness, was also painful at times. I sometimes have neck pain, from what I assume was an injury playing American Football in high school. The long, locked posture of clutching handlebars and supporting body weight with shoulders proved to be a disaster for my neck, which was really painful on the descents and later into the day. The climb was excruciating at first, but some stretches and breaks proved a respite from the pain, at least long enough to make some progress upwards.
 
-The pain slowly morphed into pleasure as the sun began to set behind the mountains. While Galibier was epic, it was also busy. The climb up to Izoard was almost deserted. The pine trees, painted sky and perfect asphalt made it an unexpected gem of our trip, and reminded me of the Rockies in North America, where I did my undergraduate studies.
+The pain slowly morphed into pleasure as the sun began to set behind the mountains. While *Galibier* was epic, it was also busy. The climb up to *Izoard* was almost deserted. The pine trees, painted sky and perfect asphalt made it an unexpected gem of our trip, and reminded me of the Rockies in North America, where I did my undergraduate studies.
 
 ![d'izoard](../assets/img/2020-07-14-geneva-genova/15.jpg)
 
@@ -214,15 +206,21 @@ I'm sure we had some fatigue climbing up, and probably stressed about something 
 
 The gorgeously calm morning gave us no sense of the excruciating climb in store for us later. We were up early, and left early, since our campground was exactly in the middle of a touristic viewpoint. The early sun, followed by the nearly `1000m` of frigid descent into *Parc naturel régional du Queyras*, woke us up.
 
-At the bottom of this descent was a metaphor in real life - a T intersection, where we had to choose to turn left or right. We decided to pause for a few minutes to check our maps. Like in life, sometimes the most influential decisions barely register on in our consciousness. We casually contemplated either turning right, as originally planned, and climbing two sizable cols before crossing into Italy. As we were seeing where turning left would take us, an older man came from the right and towards the left. He told us about the beauty and terror that was to our left and is Col d'Agnel `2744m`, a full 1400m the fork. We pretended to discuss our options, but we both already knew that we'd be turning left.
+At the bottom of this descent was a metaphor in real life - a T intersection, where we had to choose to turn left or right. We decided to pause for a few minutes to check our maps. Like in life, sometimes the most influential decisions barely register on in our consciousness. We casually contemplated either turning right, as originally planned, and climbing two sizable cols before crossing into Italy. As we were seeing where turning left would take us, an older man came from the right and towards the left. He told us about the beauty and terror that was to our left and is *Col d'Agnel* `2744m`, a full `1400m` the fork. We pretended to discuss our options, but we both already knew that we'd be turning left.
 
-After lunch in a quaint village at the base of the climb, we spent the next 3 hours grinding our chains and pedals to get to what felt like the top of the world. This was an absolute beast of a col, but one of rugged, almost otherworldly beauty. Two 700m climbs of 7-13% gradient were split almost equally with a reprieve of a few kilometers at a 0-2% incline. Quaint villages and grasslands below gave way to rugged peaks and narrow roads up above. What stayed constant was the unrelenting sun turning us into lobsters, as any sunscreen was quickly sweated away. 
+After lunch in a quaint village at the base of the climb, we spent the next 3 hours grinding our chains and pedals to get to what felt like the top of the world. This was an absolute beast of a col, but one of rugged, almost otherworldly beauty. Two `700m` climbs of 7-13% gradient were split almost equally with a reprieve of a few kilometers at a 0-2% incline. Quaint villages and grasslands below gave way to rugged peaks and narrow roads up above. What stayed constant was the unrelenting sun turning us into lobsters, as any sunscreen quickly sweat away. 
 
 ![d'agnel](../assets/img/2020-07-14-geneva-genova/19.jpg)
 
+
+
 ![d'agnel](../assets/img/2020-07-14-geneva-genova/20.jpg)
 
+
+
 ![d'izoard](../assets/img/2020-07-14-geneva-genova/21.jpg)
+
+
 
 ![d'izoard](../assets/img/2020-07-14-geneva-genova/22.jpg)
 
@@ -240,7 +238,7 @@ We savored the moment, the look back across our traversed terrain in France, and
 
 The final 15km descent of the day was beautiful and wonderful, but also intense since the road was filled with potholes and the descent angle was well over 10%. That, and the long straight descents made racing so tantalizing but so risky.
 
-We stopped early in Pontechianale to enjoy the perfect weather, emotions and gelato.
+We stopped early in *Pontechianale* to enjoy the perfect weather, emotions and gelato.
 
 ![gelato](../assets/img/2020-07-14-geneva-genova/26.jpg)
 
@@ -275,7 +273,7 @@ An early start and incredibly long descent (50km!) was already not easy due to t
 
 ![italian-roads](../assets/img/2020-07-14-geneva-genova/27.jpg)
 
-Our fuel stop for lunch in Mondovi lead to several "baby" cols. The amount we were sweating seemed like we climed col d'Agnel all over again, as the 32°C heat, humidity and sunshine felt like we were in an oven.
+Our fuel stop for lunch in *Mondovi* lead to several baby cols. The amount we were sweating seemed like we climbed *col d'Agnel* all over again, as the 32°C heat, humidity and sunshine felt like we were in an oven.
 
 Later it got worse, as we climbed several 15-20% roads and passed through *località Fornaci* - the furnace.
 
@@ -285,7 +283,7 @@ Today was short on photos and memories, as we had only one thing on our mind - m
 
 One final ice cream break in *Bagnasco* in a dive bar, and then one final col on our own before we would be guided to victory by Francesco's uncle Michele (another cycling enthusiast).
 
-I really don't remember that climb, but I remember when we made it to the top and saw Michele waiting for us. We were so drained, but so close that our spirits then rose after seeing him. We had one more "false flat" to push through. It's crazy how much control the mind has over the body. We flew through the final col of the trip, and saw our majestic descent into Castelvecchio.
+I really don't remember that climb, but I remember when we made it to the top and saw Michele waiting for us. We were so drained, but so close that our spirits then rose after seeing him. We had one more "false flat" to push through. It's crazy how much control the mind has over the body. We flew through the final col of the trip, and saw our majestic descent into *Castelvecchio*.
 
 ![victory](../assets/img/2020-07-14-geneva-genova/29.jpg)
 
@@ -326,8 +324,6 @@ Friends, family, food, adventure, hikes, chilling, my birthday, and everything e
 
 ![castelvecchio](../assets/img/2020-07-14-geneva-genova/33.jpg)
 
-
-
 Our 3 day break turned into 7. It could have easily turned into a lifetime. 
 
 ![castelvecchio](../assets/img/2020-07-14-geneva-genova/34.jpg)
@@ -335,8 +331,6 @@ Our 3 day break turned into 7. It could have easily turned into a lifetime.
 I celebrated my birthday in the only way we knew how to - a birthday ride.
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60753069&title=Colle%20di%20Caprauna%20Birthday%20Ride&metricUnits=true&sampleGraph=true&privacyCode=e0whdQI9TBrzr9lQ" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
-
-![castelvecchio](../assets/img/2020-07-14-geneva-genova/35.jpg)
 
 ![castelvecchio](../assets/img/2020-07-14-geneva-genova/35.jpg)
 
@@ -370,9 +364,9 @@ Who knew the sea could be so blue?
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752992&title=Day%207%3A%20Celle%20-%20Genova&metricUnits=true&sampleGraph=true&privacyCode=5tyziRvNuXyK3FVa" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
-The last day! Our shortest day as well, as only 36km separated us from the end of an amazing adventure. There is no triumphant *defy all odds and succeed* end story here. We knew we would make it, but just weren't sure if we would make it in time for lunch.
+The last day was our shortest day as well, as only 36km separated us from the end of an amazing adventure. There is no triumphant *defy all odds and succeed* end story here. We knew we would make it, but just weren't sure if we would make it in time for lunch.
 
-While the first part of the ride was nice, along the coast on nice bike paths, the second half was urban cycling, hence the lack of photos. 
+While the first part of the ride was nice, along the coast on nice bike paths, the second half was urban cycling, hence the lack of photos. But never did city biking feel like such an accomplishment.
 
 ### Notes
 
