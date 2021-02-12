@@ -1,30 +1,39 @@
 ---
 title: Geneva to Genova
-date: 2020-07-14
+date: 2021-02-12
 tags: [Trip, Switzerland, France, Italy, Bike]
-description:
-image:
+description: 570km of cycling perfection from Geneva to Genova through France.
+image: ../assets/img/2020-07-14-geneva-genova/25.jpg
 layout: post
-published: false
+published: true
 ---
-# Geneva to Genova
+*Note: This trip took place in July 2020 and was written in the fall and winter of 2020/2021.*
 
 <img src="../assets/img/2020-07-14-geneva-genova/relive.gif" alt="relive" style="zoom:25%;" />
-![relive](../assets/img/2020-07-14-geneva-genova/relive.gif)
 
 ## Summary
 
-- [Intro](https://wrynearson.github.io/geneva-genova/#geneva-to-genova)
-- [Preface](https://wrynearson.github.io/geneva-genova/#preface)
-- [Day 1: Geneva - Col de Tamiè](https://wrynearson.github.io/geneva-genova/#day-1--geneva---col-de-tami%C3%A8)
-- [Day 2: Col de Tamiè - Col du Télégraphie](https://wrynearson.github.io/geneva-genova/#day-2-col-de-tami%C3%A8---col-du-t%C3%A9l%C3%A9graphie)
-- [Day 3: Col du Télégraphie - Col Du Galibier - Col d’Izoard](https://wrynearson.github.io/geneva-genova/#day-3-col-du-t%C3%A9l%C3%A9graphie---col-du-galibier---col-dizoard)
-- [Day 4: Col d’Izoard - Col d’Agnel](https://wrynearson.github.io/geneva-genova/#day-4-col-dizoard---col-dagnel)
-- [Day 5: Col d’Agnel - Castelvecchio di Rocca Barbena](https://wrynearson.github.io/geneva-genova/#day-5-col-dagnel---castelvecchio-di-rocca-barbena)
-- [*Break in Castelvecchio*](https://wrynearson.github.io/geneva-genova/#break-in-castelvecchio)
-- [Day 6: Castelvecchio di Rocca Barbena - Celle](https://wrynearson.github.io/geneva-genova/#day-6-castelvecchio-di-rocca-barbena---celle)
-- [Day 7: Celle - Genova](https://wrynearson.github.io/geneva-genova/#day-7-celle---genova)
-- [Conclusion](https://wrynearson.github.io/geneva-genova/#conclusion)
+[Intro](https://wrynearson.github.io/geneva-genova/#geneva-to-genova)
+
+[Preface](https://wrynearson.github.io/geneva-genova/#preface)
+
+[Day 1: Geneva - Col de Tamiè](https://wrynearson.github.io/geneva-genova/#day-1--geneva---col-de-tami%C3%A8)
+
+[Day 2: Col de Tamiè - Col du Télégraphie](https://wrynearson.github.io/geneva-genova/#day-2-col-de-tami%C3%A8---col-du-t%C3%A9l%C3%A9graphie)
+
+[Day 3: Col du Télégraphie - Col Du Galibier - Col d’Izoard](https://wrynearson.github.io/geneva-genova/#day-3-col-du-t%C3%A9l%C3%A9graphie---col-du-galibier---col-dizoard)
+
+[Day 4: Col d’Izoard - Col d’Agnel](https://wrynearson.github.io/geneva-genova/#day-4-col-dizoard---col-dagnel)
+
+[Day 5: Col d’Agnel - Castelvecchio di Rocca Barbena](https://wrynearson.github.io/geneva-genova/#day-5-col-dagnel---castelvecchio-di-rocca-barbena)
+
+[*Break in Castelvecchio*](https://wrynearson.github.io/geneva-genova/#break-in-castelvecchio)
+
+[Day 6: Castelvecchio di Rocca Barbena - Celle](https://wrynearson.github.io/geneva-genova/#day-6-castelvecchio-di-rocca-barbena---celle)
+
+[Day 7: Celle - Genova](https://wrynearson.github.io/geneva-genova/#day-7-celle---genova)
+
+[Conclusion](https://wrynearson.github.io/geneva-genova/#conclusion)
 
 <div class="embedly-responsive" style="position: relative;padding-bottom: 78.2227%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="https://cdn.embedly.com/widgets/media.html?src=https://www.relive.cc/view/vrqD4ryrmLq/widget?r=embed-site&url=https://www.relive.cc/view/vrqD4ryrmLq?r=embed-site&image=https://www.relive.cc/view/vrqD4ryrmLq/png?x-ref=embed-site&key=f1631a41cb254ca5b035dc5747a5bd75&type=text/html&schema=relive" width="1024" height="801" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
 
@@ -227,7 +236,13 @@ The emotions we felt, combined with the views, were simply indescribable. Such j
 
 ![d'izoard](../assets/img/2020-07-14-geneva-genova/25.jpg)
 
-We savored the moment, the look back across our traversed terrain in France, and peered into our upcoming adventures in Italy.
+We savored the moment, the look back across our traversed terrain in France, and peered into our upcoming adventures in Italy. I have seen quite a few beautiful landscapes and vistas, but this was one special.
+
+The final 15km descent of the day was beautiful and wonderful, but also intense since the road was filled with potholes and the descent angle was well over 10%. That, and the long straight descents made racing so tantalizing but so risky.
+
+We stopped early in Pontechianale to enjoy the perfect weather, emotions and gelato.
+
+![gelato](../assets/img/2020-07-14-geneva-genova/26.jpg)
 
 ### Notes
 
@@ -254,17 +269,47 @@ We savored the moment, the look back across our traversed terrain in France, and
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752995&title=Day%205%3A%20Col%20d%E2%80%99Agnel%20-%20Castelvecchio%20di%20Rocca%20Barbena&metricUnits=true&sampleGraph=true&privacyCode=M5A539q86ZX73LKE" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
+If the word motivation described our ride yesterday, the word of the day today was grit.
+
+An early start and incredibly long descent (50km!) was already not easy due to the heat, the condition of my neck, and the terrible road conditions. We only afforded ourselves a 10 minute coffee break next to a petrol station before turning our minds off and our leg muscles on, as for the next several hours, we averaged 30 km/h through hot, flat, unforgiving terrain.
+
+![italian-roads](../assets/img/2020-07-14-geneva-genova/27.jpg)
+
+Our fuel stop for lunch in Mondovi lead to several "baby" cols. The amount we were sweating seemed like we climed col d'Agnel all over again, as the 32°C heat, humidity and sunshine felt like we were in an oven.
+
+Later it got worse, as we climbed several 15-20% roads and passed through *località Fornaci* - the furnace.
+
+![fornaci](../assets/img/2020-07-14-geneva-genova/28.jpg)
+
+Today was short on photos and memories, as we had only one thing on our mind - meeting our friends, and Francesco's family, in *Castelvecchio di Rocca Barbena*. Since a mutual friend had claimed it was home to the best bar in the world, we were determined to get there and celebrate, and rest.
+
+One final ice cream break in *Bagnasco* in a dive bar, and then one final col on our own before we would be guided to victory by Francesco's uncle Michele (another cycling enthusiast).
+
+I really don't remember that climb, but I remember when we made it to the top and saw Michele waiting for us. We were so drained, but so close that our spirits then rose after seeing him. We had one more "false flat" to push through. It's crazy how much control the mind has over the body. We flew through the final col of the trip, and saw our majestic descent into Castelvecchio.
+
+![victory](../assets/img/2020-07-14-geneva-genova/29.jpg)
+
+
+
+![castelvecchio](../assets/img/2020-07-14-geneva-genova/30.jpg)
+
+
+
+![castelvecchio](../assets/img/2020-07-14-geneva-genova/31.jpg)
+
+With family and friends waiting, and 470km behind us, we knew we made it to the main destination (even if it wasn't the final one).
+
 ### Notes
 
 ```markdown
-- Got one of our earliest start (at 8.40 :smile:) after breakfast at the bakery (+ sweets for the rest of the day in a paper bag) and packing
-- 50 km long unending relentless descent on with _suboptimal_ road conditions (flying mats) with a coffee break in a gas station in Sepeyre
+- Got one of our earliest start (at 8.40) after breakfast at the bakery (+ sweets for the rest of the day in a paper bag) and packing
+- 50 km long unending relentless descent on with *suboptimal* road conditions (flying mats) with a coffee break in a gas station in Sepeyre
 - Our next segment was disciplined by necessity, as we needed to make it to Castelvecchio by the evening. Steady pace at around 30 km/h in the _Pianura padana_ with infrequent water breaks while the temps were rising 
 - Well-deserved lunch  at 13 in Mondovì: two plates of pasta, prosciutto e melone and caprese (+ chinotto)
 - After seriously considering to swim in the public fountain, despite the 32º we set off on a few baby cols
 - The heat and the gradient instantly negated the fuel from our lunch 
 - Water and people were scarce: it took time to find someone to ask to refill our bottles (lady and cleaning lady)
-- After the first baby col we found ourselves struggling in the heat near _località Fornaci_, on 15-20% roads 
+- After the first baby col we found ourselves struggling in the heat near *località Fornaci*, on 15-20% roads 
 - To reward our efforts, we treated ourselves to icecream and iced tea and gassosa in Bagnasco: the last serious climb of the day, on top of which we would meet Michele
 - Last 30 km went like a breeze, with Michele setting the pace like two stranded swimmers being towed back to the beach from the sea, drinking water from the spring in Calizzano 
 - Last but not least: _Colle dello Scravaion_. Pure joy and sense of victory. Francesco was screaming to let go of all the effort, fatigue and adrenaline. 
@@ -273,15 +318,45 @@ We savored the moment, the look back across our traversed terrain in France, and
 
 ## Break in Castelvecchio
 
-*Friends, family, food, adventure, hikes, chilling, my birthday, and everything else that's good in life*. 
+Friends, family, food, adventure, hikes, chilling, my birthday, and everything else that's good in life.
+
+![castelvecchio](../assets/img/2020-07-14-geneva-genova/32.jpg)
+
+
+
+![castelvecchio](../assets/img/2020-07-14-geneva-genova/33.jpg)
+
+
+
+Our 3 day break turned into 7. It could have easily turned into a lifetime. 
+
+![castelvecchio](../assets/img/2020-07-14-geneva-genova/34.jpg)
+
+I celebrated my birthday in the only way we knew how to - a birthday ride.
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60753069&title=Colle%20di%20Caprauna%20Birthday%20Ride&metricUnits=true&sampleGraph=true&privacyCode=e0whdQI9TBrzr9lQ" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
----
+![castelvecchio](../assets/img/2020-07-14-geneva-genova/35.jpg)
+
+![castelvecchio](../assets/img/2020-07-14-geneva-genova/35.jpg)
 
 ## Day 6: Castelvecchio di Rocca Barbena - Celle
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752993&title=%20Day%206%3A%20Castelvecchio%20di%20Rocca%20Barbena%20-%20Celle&metricUnits=true&sampleGraph=true&privacyCode=XqPoen1fbg2cArTp" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
+All things in life must end. Thankfully, and hopefully, the bad things. But unfortunately, also the good things. Our friend was right, it was the best bar in the world.
+
+The end of a good thing can be the start of another. In this case, Francesco's grandma lives just down the hill (ok, almost 70km away) on the coast. Our descent and flat was filled with more beauty.
+
+![sea](../assets/img/2020-07-14-geneva-genova/36.jpg)
+
+And food. And coffee.
+
+![cafe](../assets/img/2020-07-14-geneva-genova/37.jpg)
+
+Who knew the sea could be so blue?
+
+![castelvecchio](../assets/img/2020-07-14-geneva-genova/38.jpg)
 
 ### Notes
 
@@ -295,6 +370,10 @@ We savored the moment, the look back across our traversed terrain in France, and
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752992&title=Day%207%3A%20Celle%20-%20Genova&metricUnits=true&sampleGraph=true&privacyCode=5tyziRvNuXyK3FVa" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
+The last day! Our shortest day as well, as only 36km separated us from the end of an amazing adventure. There is no triumphant *defy all odds and succeed* end story here. We knew we would make it, but just weren't sure if we would make it in time for lunch.
+
+While the first part of the ride was nice, along the coast on nice bike paths, the second half was urban cycling, hence the lack of photos. 
+
 ### Notes
 
 ```markdown
@@ -304,4 +383,6 @@ We savored the moment, the look back across our traversed terrain in France, and
 
 ## Conclusion
 
-Amazing ride!
+This was truly a ride of a lifetime, as we could explore three countries in less than a week (if you don't count our week-long break). The trip had it all - mountains, sea, forests, gelato, wild exposed camping, beaches, gelato, good food, and more gelato. Every other aspect of cycling in Italy made up for the sub-optimal roads, while France was a different kind of cycling perfection.
+
+We were exhausted at the end... but not done. The trip was so good that we decided to do another one, just a few days after, through central Italy. More on that next time.
