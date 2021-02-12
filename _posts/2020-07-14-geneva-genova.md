@@ -27,6 +27,10 @@ published: true
 | [Day 7: Celle - Genova](https://wrynearson.github.io/geneva-genova/#day-7-celle---genova) |
 | [Conclusion](https://wrynearson.github.io/geneva-genova/#conclusion) |
 
+
+
+
+
 <div class="embedly-responsive" style="position: relative;padding-bottom: 78.2227%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="https://cdn.embedly.com/widgets/media.html?src=https://www.relive.cc/view/vrqD4ryrmLq/widget?r=embed-site&url=https://www.relive.cc/view/vrqD4ryrmLq?r=embed-site&image=https://www.relive.cc/view/vrqD4ryrmLq/png?x-ref=embed-site&key=f1631a41cb254ca5b035dc5747a5bd75&type=text/html&schema=relive" width="1024" height="801" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
 
 ## Preface
@@ -44,6 +48,8 @@ In March, after COVID-19 restrictions came into effect essentially freeing the r
 Later that Spring, we starting dreaming of bigger, further, and more adventurous rides. We did an overnight 'bike to hike' camping trip, and then a full circuit of lake Geneva, *tour du lac* `219km` .  At this point we planned a 2 day (really, 2.5 day) Rhône Route `310km` trip *(trip report in the future)* with another willing accomplice, Johan, and then our first truly daring adventure, a trip home for him to Genova.
 
 ![tour-du-lac](../assets/img/2020-07-14-geneva-genova/tour-du-lac.jpg)
+
+
 
 ![rhone](../assets/img/2020-07-14-geneva-genova/rhone.jpg)
 
@@ -69,7 +75,7 @@ We almost immediately crossed into France. With our sights set on Annecy for din
 
 Beautiful Annecy at sunset further improved our mood. Beautiful cheese and beers did so even more.
 
-<img src="../assets/img/2020-07-14-geneva-genova/03.jpg" alt="departure" style="zoom:33%;" />
+![dinner](../assets/img/2020-07-14-geneva-genova/03.jpg)
 
 We felt far too accomplished for only cycling for a few hours, and thus spent too much time in the city. Once the beers and food wore off (which took a while), we enjoyed the wonderful landscape and separated cycling path along *lac d'Annecy* during dusk. 
 
@@ -79,7 +85,7 @@ We felt far too accomplished for only cycling for a few hours, and thus spent to
 
 The calm, speedy route continued into mellow climbs with minimal traffic. Dusk turned to twilight, which turned into the black of night. We only arrived to the unknown *col de tamiè* at around 23:00.
 
-<img src="../assets/img/2020-07-14-geneva-genova/06.jpg" class="align-center" alt="col de tamie" title="a late arrival" style="zoom:25%;" />
+![col-de-tamie](../assets/img/2020-07-14-geneva-genova/06.jpg)
 
 We pitched our tent in a grass field and promptly went to bed, dreaming on the days to come.
 
@@ -99,7 +105,7 @@ We pitched our tent in a grass field and promptly went to bed, dreaming on the d
 
 <iframe src="https://ridewithgps.com/embeds?type=trip&id=60752997&title=Day%202%3A%20Col%20de%20Tami%C3%A8%20-%20Col%20du%20T%C3%A9l%C3%A9graphie&metricUnits=true&sampleGraph=true&privacyCode=Sg3dGh2Jtt7j7YO6" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
-<img src="../assets/img/2020-07-14-geneva-genova/07.jpg" alt="departure" title="our campground" style="zoom:25%;" />
+![campground](../assets/img/2020-07-14-geneva-genova/07.jpg)
 
 The wonderful thing about sleeping at the top of a *col* is that a chill descent is always the first part of your ride the next day. We enjoyed one though a forest with chirping birds, followed by a *café au lait* in a sketchy bar.
 
@@ -111,7 +117,7 @@ Johan, our crazy athletic friend, kept our pace despite having a slower bike and
 
 Sad but determined, Francesco and I pushed on into the heart of this part of the alps, and the heart of our adventure. Before our first big *col* of the trip, *Col du Télégraphie* `1566m`, we filled up on sweets from a wonderful bakery and owner (see the notes below).
 
-<img src="../assets/img/2020-07-14-geneva-genova/08.jpg" alt="telegraphie" style="zoom:33%;" />
+![telegraphie](../assets/img/2020-07-14-geneva-genova/08.jpg)
 
 The climb was steep and tough, being our first main one. The thought of unknown landscapes drove us up this *col*, and many others - we reached the top around 21:00. Since we couldn't find a descent place to wild camp, we splurged on a campground with a shower at the bottom of our final descent of the day, and the start of the most famous climb of our trip.
 
@@ -167,13 +173,15 @@ Most people would stop after such a *col* and such an achievement. However, we d
 
 After an incredible and long descent on smooth asphalt, we rested in a park in *Briançon* and had a late lunch there, gear, clothes and food spread out on the grass. The feeling was fantastic, just laying there with good French ingredients on a warm summer afternoon. But as with life, and especially with bike adventures, no emotion lasts forever. Around 19:00, we set off for our second climb of the day.
 
-<img src="../assets/img/2020-07-14-geneva-genova/14.jpg" alt="break" style="zoom:50%;" />
+![break](../assets/img/2020-07-14-geneva-genova/14.jpg)
 
 This trip, in all its splendidness, was also painful at times. I sometimes have neck pain, from what I assume was an injury playing American Football in high school. The long, locked posture of clutching handlebars and supporting body weight with shoulders proved to be a disaster for my neck, which was really painful on the descents and later into the day. The climb was excruciating at first, but some stretches and breaks proved a respite from the pain, at least long enough to make some progress upwards.
 
 The pain slowly morphed into pleasure as the sun began to set behind the mountains. While *Galibier* was epic, it was also busy. The climb up to *Izoard* was almost deserted. The pine trees, painted sky and perfect asphalt made it an unexpected gem of our trip, and reminded me of the Rockies in North America, where I did my undergraduate studies.
 
 ![d'izoard](../assets/img/2020-07-14-geneva-genova/15.jpg)
+
+
 
 ![d'izoard](../assets/img/2020-07-14-geneva-genova/16.jpg)
 
