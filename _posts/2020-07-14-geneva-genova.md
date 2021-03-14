@@ -1,18 +1,13 @@
 ---
 title: Geneva to Genova
-author:
-    - Will Rynearson
-    - Francesco Cambi
+author: Will Rynearson & Francesco Cambi
 date: 2021-02-12
 tags: [Trip, Switzerland, France, Italy, Bike]
-description: 570km of cycling perfection from Geneva to Genova through France.
-image: ../assets/img/2020-07-14-geneva-genova/25.jpg
+description: 524km of cycling perfection from Geneva to Genova through France.
+image: "2020-07-14-geneva-genova/25.jpg"
 layout: post
-published: true
 ---
-*Note: This trip took place in July 2020 and was written in the fall and winter of 2020/2021.*
-
-<img src="../assets/img/2020-07-14-geneva-genova/relive.gif" alt="relive" style="zoom:25%;" />
+> In July 2020, a friend and I biked 524km from Geneva to Genova through France. We pushed ourselves to our limits, and had an unforgettable and incredible adventure as a result.
 
 | Table of Contents                                            |
 | :----------------------------------------------------------- |
@@ -26,10 +21,6 @@ published: true
 | [Day 6: Castelvecchio di Rocca Barbena - Celle](https://wrynearson.github.io/geneva-genova/#day-6-castelvecchio-di-rocca-barbena---celle) |
 | [Day 7: Celle - Genova](https://wrynearson.github.io/geneva-genova/#day-7-celle---genova) |
 | [Conclusion](https://wrynearson.github.io/geneva-genova/#conclusion) |
-
-
-
-
 
 <div class="embedly-responsive" style="position: relative;padding-bottom: 78.2227%;height: 0;overflow: hidden;"><iframe class="embedly-embed" frameborder="0" scrolling="no" allowfullscreen src="https://cdn.embedly.com/widgets/media.html?src=https://www.relive.cc/view/vrqD4ryrmLq/widget?r=embed-site&url=https://www.relive.cc/view/vrqD4ryrmLq?r=embed-site&image=https://www.relive.cc/view/vrqD4ryrmLq/png?x-ref=embed-site&key=f1631a41cb254ca5b035dc5747a5bd75&type=text/html&schema=relive" width="1024" height="801" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></iframe></div>
 
@@ -71,7 +62,7 @@ Excitement was in the air when we set off in the early afternoon. It was Frances
 
 We almost immediately crossed into France. With our sights set on Annecy for dinner and our bikes being in good shape (so far), we pushed through with barely any stops. The landscape was nice, but the constant traffic and mediocre bike lane detracted from the experience. Spirits were high, however, since we knew cycling nirvana was ahead.
 
-<img src="../assets/img/2020-07-14-geneva-genova/02.jpg" class="align-center" alt="Annecy" style="zoom:33%;" />
+![annecy](../assets/img/2020-07-14-geneva-genova/02.jpg)
 
 Beautiful Annecy at sunset further improved our mood. Beautiful cheese and beers did so even more.
 
@@ -79,9 +70,9 @@ Beautiful Annecy at sunset further improved our mood. Beautiful cheese and beers
 
 We felt far too accomplished for only cycling for a few hours, and thus spent too much time in the city. Once the beers and food wore off (which took a while), we enjoyed the wonderful landscape and separated cycling path along *lac d'Annecy* during dusk. 
 
-<img src="../assets/img/2020-07-14-geneva-genova/04.jpg" class="align-center" alt="departure" style="zoom:25%;" />
+![departure](../assets/img/2020-07-14-geneva-genova/04.jpg)
 
-<img src="../assets/img/2020-07-14-geneva-genova/05.jpg" class="align-center" alt="departure" style="zoom:25%;" />
+![departure](../assets/img/2020-07-14-geneva-genova/05.jpg)
 
 The calm, speedy route continued into mellow climbs with minimal traffic. Dusk turned to twilight, which turned into the black of night. We only arrived to the unknown *col de tamiè* at around 23:00.
 
@@ -147,13 +138,9 @@ We took our time getting up, showering and packing. This was a huge mistake. The
 
 Our start at roughly 12:00 lead to us dripping with sweat, and filling our brains with doubt, almost instantly. The main problem is that there is essentially zero shade on the entire climb. We took short breaks on the shady side of immovable objects, but this too was limited due to the angle of the sun directly above us.
 
-<img src="../assets/img/2020-07-14-geneva-genova/09.jpg" alt="galibier" style="zoom:33%;" />
+![galibier](../assets/img/2020-07-14-geneva-genova/09.jpg)
 
 The scenery, once again, propelled us upwards.
-
-<video width="320" height="480" style="align:center;" controls src="../assets/img/2020-07-14-geneva-genova/galibier1.mp4"> Your browser does not support this video.</video>
-
-<video width="320" height="480" style="align:center;" controls src="../assets/img/2020-07-14-geneva-genova/galibier2.mp4"> Your browser does not support this video.</video>
 
 ![](../assets/img/2020-07-14-geneva-genova/10.jpg)
 
@@ -167,7 +154,7 @@ The closer we got to the top, the more it pulled us uphill. With perfect conditi
 
 This was the first point in the trip where we felt truly accomplished. We stayed for a while to just take it all in. Then, satisfied, we got what we had earned - an amazing descent.
 
-<img src="../assets/img/2020-07-14-geneva-genova/13.jpg" alt="galibier-descent" style="zoom:33%;" />
+![galibier-descent](../assets/img/2020-07-14-geneva-genova/13.jpg)
 
 Most people would stop after such a *col* and such an achievement. However, we did not. While I'm very proud of my previous adventures, Francesco deserves all of the credit for planning such crazy, but achievable ones. Thus, we marched on for our second major climb of the day - *Col d'Izoard* `2360m`, almost as high as where we were when we realized we'd have to summit twice on the same day.
 
@@ -181,13 +168,11 @@ The pain slowly morphed into pleasure as the sun began to set behind the mountai
 
 ![d'izoard](../assets/img/2020-07-14-geneva-genova/15.jpg)
 
-
-
 ![d'izoard](../assets/img/2020-07-14-geneva-genova/16.jpg)
 
 I'm sure we had some fatigue climbing up, and probably stressed about something at the time, but all of these negative emotions fade with time. What matters is the climb was beautiful, and that we were on an adventure of a lifetime. Oh, and that we made it to the top and camped nearby.
 
-<img src="../assets/img/2020-07-14-geneva-genova/17.jpg" alt="d'izoard" style="zoom:33%;" />
+![d'izoard](../assets/img/2020-07-14-geneva-genova/17.jpg)
 
 ### Notes
 
@@ -220,15 +205,9 @@ After lunch in a quaint village at the base of the climb, we spent the next 3 ho
 
 ![d'agnel](../assets/img/2020-07-14-geneva-genova/19.jpg)
 
-
-
 ![d'agnel](../assets/img/2020-07-14-geneva-genova/20.jpg)
 
-
-
 ![d'izoard](../assets/img/2020-07-14-geneva-genova/21.jpg)
-
-
 
 ![d'izoard](../assets/img/2020-07-14-geneva-genova/22.jpg)
 
@@ -388,3 +367,5 @@ While the first part of the ride was nice, along the coast on nice bike paths, t
 This was truly a ride of a lifetime, as we could explore three countries in less than a week (if you don't count our week-long break). The trip had it all - mountains, sea, forests, gelato, wild exposed camping, beaches, gelato, good food, and more gelato. Every other aspect of cycling in Italy made up for the sub-optimal roads, while France was a different kind of cycling perfection.
 
 We were exhausted at the end... but not done. The trip was so good that we decided to do another one, just a few days after, through central Italy. More on that next time.
+
+*Note: This trip took place in July 2020 and was written in the fall and winter of 2020/2021.*
