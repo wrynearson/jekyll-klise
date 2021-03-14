@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "b8a713f9515b8ded",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a95d56fe879dee4",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2020-07-14-geneva-genova.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59c751c934d4c37a",
+    "type": "split",
+    "children": [
+      {
+        "id": "98b519414f932c3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b376c7a23212ad0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "822bc0bc11e3aa3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbce03cc8797a2c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7e5289615fb8d59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d731e82cc30fb3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2020-07-14-geneva-genova.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "2020-07-14-geneva-genova.md"
+  ]
+}
